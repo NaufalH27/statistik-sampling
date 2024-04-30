@@ -1,0 +1,1637 @@
+﻿League;Match ;Match_Id;Team;Status;Goal;Shots;s-on-t; Ball Possession (%);Passes;Pass Accuracy (%);Fouls;Yellow Card;Red Card;Offside;Corner Kick 
+English football league 2;1;1;Accrington;Home;3;16;8;55%;393;52%;12;2;0;4;7
+English football league 2;1;1;Newport;Away;0;19;2;45%;317;45%;13;0;0;3;4
+English football league 2;1;2;Wrexham;Home;3;23;6;64%;544;74%;15;2;0;0;5
+English football league 2;1;2;MK Dons;Away;5;8;6;36%;310;58%;9;3;0;1;4
+English football league 2;1;3;Doncaster;Home;0;12;3;56%;455;60%;7;1;0;2;6
+English football league 2;1;3;Harrotage Town;Away;1;7;6;44%;268;58%;20;4;0;1;5
+English football league 2;1;4;Forest Green;Home;0;19;4;51%;459;79%;17;3;0;0;0
+English football league 2;1;4;Salford City;Away;2;7;3;49%;463;76%;9;3;0;4;4
+English football league 2;1;5;Crawley Town;Home;1;19;3;54%;442;78%;14;6;0;4;2
+English football league 2;1;5;Bradford;Away;0;14;6;46%;365;73%;14;3;1;3;4
+English football league 2;1;6;Sutton United;Home;5;12;6;34%;313;71%;17;3;0;3;4
+English football league 2;1;6;Notts County;Away;1;12;3;66%;622;84%;8;3;1;2;5
+English football league 2;1;7;Tranmere;Home;1;16;3;65%;597;77%;9;2;0;0;8
+English football league 2;1;7;Barrow;Away;2;8;3;35%;335;60%;8;2;0;2;4
+English football league 2;1;8;Morecambe;Home;2;8;5;48%;353;58%;12;6;0;0;5
+English football league 2;1;8;Walsall;Away;1;11;1;52%;373;61%;7;4;0;2;3
+English football league 2;1;9;Stockport;Home;0;17;3;57%;466;71%;11;0;0;2;6
+English football league 2;1;9;Gilingham;Away;1;6;3;43%;375;61%;11;5;0;0;1
+English football league 2;1;11;Grimsby Town;Home;0;15;5;62%;461;66%;10;4;0;3;6
+English football league 2;1;11;AFC Wimbledon;Away;0;11;4;38%;288;45%;12;3;0;5;5
+English football league 2;1;12;Crewe;Home;2;13;3;53%;469;74%;8;2;0;1;10
+English football league 2;1;12;Mansfield;Away;2;20;9;47%;426;73%;16;4;1;1;5
+English football league 2;2;1;Newport;Home;4;14;5;41%;265;55%;10;4;0;4;2
+English football league 2;2;1;Doncaster;Away;0;8;2;59%;403;68%;18;6;0;1;5
+English football league 2;2;2;Swindon Town;Home;2;20;6;64%;593;85%;13;4;0;0;7
+English football league 2;2;2;Crewe;Away;2;16;5;36%;348;76%;13;6;0;1;2
+English football league 2;2;3;AFC Wimbledon;Home;1;12;3;51%;403;69%;12;3;0;1;6
+English football league 2;2;3;Wrexham;Away;1;11;6;49%;402;70%;12;3;0;1;4
+English football league 2;2;4;Walsall;Home;2;9;2;33%;260;57%;8;3;0;0;4
+English football league 2;2;4;Stockport;Away;1;19;3;67%;519;78%;9;5;0;2;11
+English football league 2;2;5;MK Dons;Home;1;8;2;51%;447;69%;8;2;0;2;2
+English football league 2;2;5;Tranmere;Away;0;16;3;49%;423;67%;12;1;0;0;11
+English football league 2;2;6;Harrotage Town;Home;0;0;3;51%;454;67%;7;1;0;0;8
+English football league 2;2;6;Forest Green;Away;1;15;2;49%;455;68%;11;3;0;0;5
+English football league 2;2;7;Barrow;Home;2;18;7;75%;589;83%;8;0;0;0;9
+English football league 2;2;7;Sutton United;Away;1;10;3;25%;206;51%;7;1;1;2;1
+English football league 2;2;8;Gilingham;Home;1;15;3;52%;358;61%;14;3;0;0;9
+English football league 2;2;8;Accrington;Away;0;10;2;48%;347;61%;13;2;0;4;1
+English football league 2;2;9;Notts County;Home;3;13;9;65%;613;81%;6;4;0;1;7
+English football league 2;2;9;Grimsby Town;Away;2;10;3;35%;337;66%;16;4;0;1;6
+English football league 2;2;10;Salford City;Home;1;7;3;49%;463;82%;13;1;0;1;2
+English football league 2;2;10;Crawley Town;Away;1;15;1;51%;491;80%;10;4;0;3;3
+English football league 2;2;11;Bradford;Home;2;17;6;52%;443;72%;3;2;0;1;4
+English football league 2;2;11;Colchester;Away;1;13;3;48%;410;70%;9;2;0;2;11
+English football league 2;2;12;Mansfield;Home;3;26;6;69%;574;80%;9;2;0;0;5
+English football league 2;2;12;Morecambe;Away;0;5;0;31%;253;55%;10;2;0;1;4
+English Football League 2;3;1;Doncaster;Home;2;11;5;32%;275;56%;8;2;0;2;3
+English football league 2;3;1;Mansfield;Away;2;19;7;68%;566;78%;10;3;0;3;7
+English football league 2;3;2;Accrington;Home;1;9;2;51%;431;72%;10;2;0;4;1
+English football league 2;3;2;Barrow;Away;1;14;1;49%;407;67%;5;1;0;3;10
+English football league 2;3;3;Crawley Town;Home;2;14;5;58%;516;75%;8;1;0;0;7
+English football league 2;3;3;MK Dons;Away;1;8;2;42%;382;70%;11;2;0;2;5
+English football league 2;3;4;Grimsby Town;Home;2;10;2;51%;351;64%;16;0;0;1;2
+English football league 2;3;4;Salford City;Away;0;5;1;49%;334;64%;16;4;1;2;7
+English football league 2;3;5;Forest Green;Home;1;12;5;41%;325;69%;12;4;1;2;6
+English football league 2;3;5;Swindon Town;Away;2;22;8;59%;444;77%;11;3;0;3;5
+English football league 2;3;6;Colchester;Home;0;9;4;54%;415;78%;8;3;0;0;7
+English football league 2;3;6;AFC Wimbledon;Away;2;21;7;46%;355;71%;12;4;0;0;9
+English football league 2;3;7;Crewe;Home;4;10;6;52%;443;69%;4;0;0;2;1
+English football league 2;3;7;Newport;Away;2;14;7;48%;408;61%;12;2;0;2;5
+English football league 2;3;8;Tranmere;Home;3;11;5;47%;418;71%;10;2;0;0;6
+English football league 2;3;8;Harrogate Town;Away;0;12;2;53%;470;72%;17;1;0;1;3
+English football league 2;3;9;Morecambe;Home;0;13;1;25%;225;60%;7;1;0;3;4
+English football league 2;3;9;Notts County;Away;0;9;1;75%;692;86%;4;1;0;0;5
+English football league 2;3;10;Sutton United;Home;0;6;2;48%;330;55%;6;2;0;2;2
+English football league 2;3;10;Gillingham;Away;1;5;1;52%;356;58%;10;1;0;1;9
+English football league 2;3;11;Stockport;Home;1;15;5;57%;454;72%;7;2;0;3;7
+English football league 2;3;11;Bradford;Away;1;10;6;43%;362;67%;16;3;0;1;4
+English football league 2;3;12;Wrexham;Home;3;14;6;39%;297;71%;14;1;0;1;4
+English football league 2;3;12;Walsall;Away;4;17;6;61%;445;75%;10;2;0;1;5
+English football league 2;4;1;Tranmere;Home;3;14;6;39%;297;71%;14;1;0;1;4
+English football league 2;4;1;Salford City;Away;4;17;6;61%;445;75%;10;2;0;1;5
+English football league 2;4;2;Crewe;Home;2;11;3;64%;517;81%;6;1;0;5;8
+English football league 2;4;2;Walsall;Away;2;19;7;36%;290;66%;10;1;0;1;8
+English football league 2;4;3;Forest Green ;Home;0;11;1;69%;628;78%;6;3;1;1;7
+English football league 2;4;3;Newport;Away;3;10;7;31%;298;58%;7;1;0;1;4
+English football league 2;4;4;Morecambe;Home;3;12;3;36%;252;61%;15;3;0;1;6
+English football league 2;4;4;Bradford;Away;0;14;5;64%;456;78%;11;3;0;2;3
+English football league 2;4;5;Crawley Town;Home;0;17;7;69%;609;83%;8;3;0;1;9
+English football league 2;4;5;Gillingham;Away;1;9;3;31%;288;65%;10;3;0;4;4
+English football league 2;4;6;Doncaster;Home;1;10;6;37%;349;72%;10;0;0;4;4
+English football league 2;4;6;Notts County;Away;3;8;5;63%;614;84%;8;4;0;5;3
+English football league 2;4;7;Colchester;Home;2;12;4;44%;366;68%;16;5;0;1;3
+English football league 2;4;7;MK Dons;Away;3;17;6;56%;449;71%;8;4;0;4;6
+English football league 2;4;8;Grimsby Town;Home;1;8;3;39%;328;63%;7;0;0;1;4
+English football league 2;4;8;Mansfield;Away;1;19;4;61%;500;75%;11;0;0;4;6
+English football league 2;4;9;Sutton United;Home;0;11;4;48%;288;52%;7;2;0;3;4
+English football league 2;4;9;AFC Wimledon;Away;3;15;5;52%;295;51%;18;1;0;1;5
+English football league 2;4;10;Stockport;Home;1;12;6;62%;502;75%;10;2;0;2;4
+English football league 2;4;10;Barrow;Away;0;9;3;38%;323;62%;5;1;0;0;3
+English football league 2;4;11;Accrington;Home;2;24;7;48%;342;64%;14;4;1;0;5
+English football league 2;4;11;Harrogate Town;Away;1;10;2;52%;383;66%;15;4;0;2;3
+English football league 2;4;12;Wrexham;Home;5;28;12;48%;395;76%;12;1;0;0;9
+English football league 2;4;12;Swindown Town;Away;5;8;6;52%;436;79%;17;3;0;2;2
+MLS;30;1;New York City;Host;1;16;3;65%;583;85%;14;3;0;1;2
+MLS;30;1;Whitecaps;Guest;1;6;2;35%;325;67%;16;2;0;2;2
+MLS;30;2;Cincinnati;Host;0;13;4;57%;533;87%;7;2;0;1;2
+MLS;30;2;Orlando City;Guest;1;10;1;43%;401;81%;9;5;1;1;5
+MLS;30;3;DC United;Host;4;11;4;49%;444;84%;13;0;0;2;2
+MLS;30;3;Chichago Fire;Guest;0;13;2;51%;439;85%;13;1;0;0;5
+MLS;30;4;New England;Host;2;17;6;49%;378;81%;10;2;0;1;10
+MLS;30;4;Austin FC;Guest;2;10;5;51%;386;81%;15;3;0;1;3
+MLS;30;5;Montreal;Host;2;13;6;46%;407;76%;9;2;0;3;4
+MLS;30;5;Columbus Crew;Guest;4;11;4;54%;478;80%;9;3;0;0;1
+MLS;30;6;Sporting KC;Host;2;10;6;59%;463;80%;9;3;0;1;7
+MLS;30;6;St. Louis City;Guest;1;8;2;41%;326;76%;15;2;0;3;5
+MLS;30;7;Nashville;Host;1;11;5;37%;321;75%;11;4;0;2;5
+MLS;30;7;Charlotte FC;Guest;1;11;2;63%;530;87%;14;3;0;0;7
+MLS;30;8;Dallas;Host;2;16;3;40%;374;81%;12;2;0;3;3
+MLS;30;8;Atlanta United;Guest;2;13;6;60%;563;86%;11;2;0;0;5
+MLS;30;9;Real Salt Lake;Host;2;17;5;57%;461;89%;13;2;0;3;8
+MLS;30;9;Colorado Rapids;Guest;0;6;3;43%;352;81%;21;3;0;2;4
+MLS;30;10;SJ Earthquakes;Host;1;18;6;49%;453;86%;5;1;0;1;9
+MLS;30;10;Minnesota United;Guest;1;14;7;51%;474;86%;12;2;0;0;5
+MLS;30;11;Sounders;Host;2;14;7;45%;394;78%;12;1;1;2;5
+MLS;30;11;Portland Timbers;Guest;2;14;5;55%;477;86%;14;3;0;0;3
+MLS;30;12;LA Galaxy;Host;0;11;4;55%;567;88%;10;1;0;0;8
+MLS;30;12;Houston;Guest;0;9;3;45%;481;88%;16;4;0;2;2
+MLS;30;13;Philadelphia Union;Host;4;11;6;54%;366;76%;18;4;0;6;6
+MLS;30;13;New York RB;Guest;1;14;4;46%;325;76%;10;1;1;1;2
+MLS;30;14;LAFC;Host;1;22;6;48%;391;81%;16;4;0;3;10
+MLS;30;14;Inter Miami;Guest;3;9;6;52%;441;79%;13;3;0;1;2
+MLS;29;1;New England;Host;1;15;6;49%;401;70%;13;2;0;2;8
+MLS;29;1;New York RB;Guest;0;10;2;51%;411;70%;16;1;0;2;2
+MLS;29;2;Toronto FC;Host;3;12;6;57%;493;85%;6;4;0;2;4
+MLS;29;2;Philadelphia Union;Guest;1;17;2;43%;352;81%;14;3;1;2;8
+MLS;29;3;Atlanta United;Host;1;9;1;59%;499;85%;10;2;0;3;6
+MLS;29;3;Cincinnati;Guest;2;16;4;41%;351;79%;12;1;0;1;6
+MLS;29;4;New York City;Host;2;13;5;53%;516;82%;9;1;0;2;4
+MLS;29;4;Montreal;Guest;0;13;3;47%;440;78%;10;1;0;2;5
+MLS;29;5;Inter Miami;Host;0;13;4;69%;718;91%;16;4;0;1;4
+MLS;29;5;Nashville;Guest;0;7;2;31%;315;78%;9;2;0;3;3
+MLS;29;6;Charlotte FC;Host;1;9;2;66%;448;83%;18;2;0;2;4
+MLS;29;6;Orlando City;Guest;1;8;4;34%;245;70%;7;2;0;5;3
+MLS;29;7;Minnesota United;Host;3;14;7;55%;439;86%;13;1;0;1;5
+MLS;29;7;Colorado Rapids;Guest;0;12;5;45%;352;81%;10;5;0;2;9
+MLS;29;8;Chichago Fire;Host;0;14;3;54%;522;85%;13;0;0;0;4
+MLS;29;8;Whitecaps;Guest;1;10;4;46%;466;85%;14;1;0;1;5
+MLS;29;9;Houston;Host;2;11;6;45%;382;84%;11;3;0;1;5
+MLS;29;9;Columbus Crew;Guest;0;10;3;55%;455;87%;13;2;0;1;12
+MLS;29;10;St. Louis City;Host;2;22;6;66%;500;85%;14;2;0;1;10
+MLS;29;10;Dallas;Guest;1;5;4;34%;269;67%;14;4;1;5;2
+MLS;29;11;Austin FC;Host;1;13;6;51%;392;82%;8;2;0;3;3
+MLS;29;11;Sounders;Guest;2;11;3;49%;385;80%;13;2;0;0;6
+MLS;29;12;SJ Earthquakes;Host;2;16;4;44%;415;84%;13;5;0;2;11
+MLS;29;12;LA Galaxy;Guest;3;12;5;56%;549;87%;8;2;0;0;7
+MLS;29;13;Portland Timbers;Host;2;7;2;47%;417;81%;13;3;0;1;3
+MLS;29;13;Real Salt Lake;Guest;1;14;5;53%;457;84%;14;2;0;5;7
+MLS;28;1;Cincinnati;Host;3;12;6;44%;457;84%;8;2;0;0;5
+MLS;28;1;New York City;Guest;0;11;4;56%;567;88%;11;2;0;0;8
+MLS;28;2;Atlanta United;Host;4;20;11;52%;447;85%;11;2;0;1;5
+MLS;28;2;Nashville;Guest;0;13;1;48%;412;82%;3;0;0;2;6
+MLS;28;3;Orlando City;Host;2;11;4;58%;443;83%;11;2;0;1;8
+MLS;28;3;St. Louis City;Guest;1;10;2;42%;322;79%;21;4;1;1;4
+MLS;28;4;DC United;Host;1;12;8;54%;430;85%;11;1;0;3;7
+MLS;28;4;Philadelphia Union;Guest;3;17;10;46%;376;79%;14;3;0;2;5
+MLS;28;5;Columbus Crew;Host;2;31;8;60%;593;90%;9;1;0;1;10
+MLS;28;5;Toronto FC;Guest;0;9;3;40%;407;85%;3;1;0;3;3
+MLS;28;6;Montreal;Host;1;12;3;49%;479;81%;12;1;0;0;8
+MLS;28;6;New England;Guest;0;2;0;51%;503;84%;8;1;0;4;1
+MLS;28;7;New York RB;Host;0;13;4;51%;443;84%;8;2;0;2;10
+MLS;28;7;Inter Miami;Guest;2;6;3;49%;447;81%;10;1;0;3;1
+MLS;28;8;Charlotte FC;Host;2;15;5;63%;527;81%;12;3;0;0;5
+MLS;28;8;LAFC;Guest;1;13;6;37%;308;71%;11;1;0;2;2
+MLS;28;9;Dallas;Host;1;11;5;61%;544;87%;15;4;0;1;5
+MLS;28;9;Austin FC;Guest;0;10;2;39%;351;78%;10;0;1;0;4
+MLS;28;10;Sporting KC;Host;3;15;6;60%;631;91%;8;0;0;2;5
+MLS;28;10;SJ Earthquakes;Guest;0;11;2;40%;427;83%;7;0;0;1;5
+MLS;28;11;Real Salt Lake;Host;0;11;1;54%;467;83%;15;2;0;1;5
+MLS;28;11;Houston;Guest;3;6;4;46%;422;80%;13;0;0;2;0
+MLS;28;12;Portland Timbers;Host;2;17;5;64%;524;84%;17;4;0;0;6
+MLS;28;12;Whitecaps;Guest;3;9;3;36%;302;76%;11;2;0;3;3
+MLS;28;13;LA Galaxy;Host;3;19;9;65%;654;94%;11;0;0;0;10
+MLS;28;13;Chichago Fire;Guest;0;12;4;35%;353;86%;6;1;1;0;6
+MLS;28;14;Minnesota United;Host;1;16;4;54%;515;89%;9;0;0;0;11
+MLS;28;14;Sounders;Guest;1;6;2;46%;471;82%;6;0;0;1;5
+MLS;27;1;Columbus Crew;Host;3;13;9;62%;580;88%;12;0;0;0;6
+MLS;27;1;Cincinnati;Guest;0;6;4;38%;361;80%;7;2;0;5;4
+MLS;27;2;New York RB;Host;1;9;3;58%;433;75%;14;3;0;1;6
+MLS;27;2;DC United;Guest;0;4;0;42%;325;64%;15;2;0;0;3
+MLS;27;3;New York City;Host;0;19;5;63%;569;86%;13;2;0;2;3
+MLS;27;3;Minnesota United;Guest;2;12;4;37%;327;77%;16;2;0;1;5
+MLS;27;4;Toronto FC;Host;2;10;3;59%;573;85%;11;1;1;1;7
+MLS;27;4;Montreal;Guest;3;12;6;41%;415;82%;15;1;0;1;2
+MLS;27;5;Houston;Host;5;11;9;64%;508;90%;11;2;0;1;3
+MLS;27;5;Portland Timbers;Guest;0;6;0;36%;290;82%;14;3;0;0;4
+MLS;27;6;Chichago Fire;Host;1;11;4;53%;446;85%;16;4;0;4;3
+MLS;27;6;Orlando City;Guest;3;10;5;47%;388;81%;16;2;0;2;6
+MLS;27;7;St. Louis City;Host;6;15;10;43%;334;77%;11;1;0;0;2
+MLS;27;7;Austin FC;Guest;3;17;9;57%;419;82%;6;0;0;4;5
+MLS;27;8;Whitecaps;Host;0;19;8;59%;563;89%;10;1;0;2;6
+MLS;27;8;SJ Earthquakes;Guest;1;3;1;41%;407;81%;8;6;0;1;1
+MLS;27;9;Sounders;Host;0;16;2;37%;316;77%;11;1;0;2;8
+MLS;27;9;Atlanta United;Guest;2;9;7;63%;559;85%;15;2;0;1;6
+La Liga;1;1_1;Almeria;Home;0;19;5;61%;480;87%;16;1;0;1;8
+La Liga;1;1_1;Rayo;Guest;2;10;4;39%;329;77%;25;3;0;1;3
+La Liga;1;1_2;Sevilla;Home;1;9;3;55%;397;74%;15;3;1;3;8
+La Liga;1;1_2;Valencia;Guest;2;10;3;45%;343;71%;17;2;0;0;1
+La Liga;1;1_3;Real Sociedad;Home;1;15;2;47%;376;81%;22;0;0;0;4
+La Liga;1;1_3;Girona;Guest;1;6;1;53%;415;82%;9;0;3;;1
+La Liga;1;1_4;Las Palmas;Home;1;5;2;69%;604;86%;11;3;0;1;6
+La Liga;1;1_4;Mallorca;Guest;1;11;2;31%;255;69%;22;2;0;6;6
+La Liga;1;1_5;Bilbao;Home;0;7;1;45%;489;85%;18;3;0;2;7
+La Liga;1;1_5;Madrid;Guest;2;14;8;55%;603;87%;6;1;0;2;5
+La Liga;1;1_6;Celta;Home;0;11;1;53%;469;82%;11;1;0;6;7
+La Liga;1;1_6;Osasuna;Guest;2;11;5;47%;432;75%;15;1;0;1;2
+La Liga;1;1_7;Villarreal;Home;1;18;5;64%;650;85%;13;1;0;2;9
+La Liga;1;1_7;Betis;Guest;2;12;5;36%;317;79%;17;3;0;1;4
+La Liga;1;1_8;Getafe;Home;0;5;2;25%;233;71%;20;6;1;4;3
+La Liga;1;1_8;Barcelona;Guest;0;14;4;75%;729;90%;11;2;1;2;4
+La Liga;1;1_9;Cadiz;Home;1;12;3;44%;298;69%;19;3;1;2;2
+La Liga;1;1_9;Alaves;Guest;0;10;2;56%;365;75%;16;2;0;2;4
+La Liga;1;1_10;Atletico Madrid;Home;3;16;4;45%;428;82%;15;3;0;3;3
+La Liga;1;1_10;Granda;Guest;1;7;4;55%;527;82%;9;1;0;0;3
+La Liga;3;3_1;Las Palmas;Home;0;11;5;52%;466;80%;7;0;0;0;5
+La Liga;3;3_1;Real Sociedad;Guest;0;8;1;48%;424;80%;29;4;0;4;7
+La Liga;3;3_2;Celta;Home;0;13;4;36%;360;69%;19;2;0;0;3
+La Liga;3;3_2;Madrid;Guest;1;10;3;64%;635;89%;14;3;0;3;5
+La Liga;3;3_3;Cadiz;Home;1;11;3;52%;345;77%;16;0;1;0;7
+La Liga;3;3_3;Almeria;Guest;1;5;2;48%;335;72%;22;3;1;1;3
+La Liga;3;3_4;Granada;Home;3;10;4;53%;354;78%;11;2;0;1;5
+La Liga;3;3_4;Mallorca;Guest;2;10;5;57%;318;76%;27;7;0;1;3
+La Liga;3;3_5;Sevilla;Home;1;21;4;51%;395;81%;11;2;0;4;6
+La Liga;3;3_5;Girona;Guest;2;8;3;49%;417;80%;18;1;0;1;8
+La Liga;3;3_6;Villarreal;Home;3;13;6;39%;382;85%;12;3;0;5;2
+La Liga;3;3_6;Barcelona;Guest;4;21;11;61%;592;91%;14;3;0;3;6
+La Liga;3;3_7;Valencia;Home;1;16;4;65%;510;83%;15;3;0;3;6
+La Liga;3;3_7;Osasuna;Guest;2;7;2;35%;283;67%;12;4;0;1;3
+La Liga;3;3_8;Bilbao;Home;4;14;6;46%;401;75%;23;4;0;2;5
+La Liga;3;3_8;Betis;Guest;2;9;4;54%;468;78%;11;2;0;2;3
+La Liga;3;3_9;Getafe;Home;1;15;4;46%;307;65%;13;1;0;0;4
+La Liga;3;3_9;Alaves;Guest;0;16;2;54%;337;67%;15;2;0;3;5
+La Liga;3;3_10;Rayo;Home;0;12;3;57%;477;77%;19;4;0;3;8
+La Liga;3;3_10;Atletico Madrid;Guest;7;17;10;43%;386;74%;17;3;0;1;3
+Serie A;3;3_1;Sassuolo;host;3;16;7;46%;375;75%;8;1;0;1;10
+Serie A;3;3_1;Verona;guest;1;11;3;54%;445;80%;13;3;0;4;1
+Serie A;3;3_2;Udinese;host;0;12;6;46%;345;76%;14;2;0;0;3
+Serie A;3;3_2;Frosione;guest;0;12;2;54%;396;79%;9;2;0;2;5
+Serie A;3;3_3;Napoli;host;1;22;4;62%;598;86%;8;0;0;4;7
+Serie A;3;3_3;Lazio;guest;2;6;2;38%;387;81%;9;2;0;3;2
+Serie A;3;3_4;Torino;host;1;10;3;63%;496;85%;13;2;0;5;4
+Serie A;3;3_4;Genoa;guest;0;7;2;37%;306;69%;7;5;0;2;0
+Serie A;3;3_5;Empoli;host;0;7;0;49%;449;87%;14;3;0;2;3
+Serie A;3;3_5;Juventus;guest;2;18;5;51%;469;84%;13;3;0;1;7
+Serie A;3;3_6;Roma;host;1;13;2;42%;399;84%;14;2;0;1;3
+Serie A;3;3_6;Milan;guest;2;9;4;58%;544;87%;15;2;1;1;5
+Serie A;3;3_7;Bologna;host;2;16;7;72%;725;88%;9;1;0;1;5
+Serie A;3;3_7;Cagliari;guest;1;7;1;28%;272;77%;13;2;0;1;2
+Serie A;3;3_8;Atalanta;host;3;18;8;41%;427;85%;11;0;0;4;7
+Serie A;3;3_8;Monza;guest;0;8;2;59%;627;85%;9;3;0;1;3
+Serie A;3;3_9;Inter;host;4;21;11;39%;348;81%;13;1;0;0;1
+Serie A;3;3_9;Florentina;guest;0;6;2;61%;527;86%;12;1;0;1;1
+Serie A;3;3_10;Lecce;host;2;20;6;45%;328;75%;17;3;0;0;6
+Serie A;3;3_10;Salernitana;guest;0;11;4;55%;396;80%;15;3;0;1;5
+Serie A;2;2_1;Frosione;host;2;13;5;36%;372;72%;10;1;0;1;3
+Serie A;2;2_1;Atalanta;guest;1;16;6;64%;622;83%;10;1;0;1;7
+Serie A;2;2_2;Verona;host ;2;5;3;28%;206;65%;17;1;1;0;1
+Serie A;2;2_2;Roma;guest;1;23;7;72%;497;86%;12;3;0;3;12
+Serie A;2;2_3;Juventus;host;1;14;3;58%;534;86%;15;2;0;4;6
+Serie A;2;2_3;Bologna;guest;1;10;4;42%;401;81%;13;1;0;0;2
+Serie A;2;2_4;Lazio;host;0;16;2;71%;724;86%;9;4;0;0;15
+Serie A;2;2_4;Genoa;guest;1;5;3;29%;314;73%;16;2;0;0;1
+Serie A;2;2_5;Salernitana;host;1;9;4;56%;427;79%;12;4;0;1;7
+Serie A;2;2_5;Udinese;guest;1;14;6;44%;333;76%;19;4;0;1;5
+Serie A;2;2_6;Monza;host ;2;20;5;54%;486;84%;14;1;0;2;6
+Serie A;2;2_6;Empoli;guest;0;18;6;46%;417;82%;7;2;0;1;5
+Serie A;2;2_7;Milan;host;4;17;7;60%;498;86%;13;2;0;1;2
+Serie A;2;2_7;Torino;guest;1;8;1;40%;335;81%;16;3;0;2;1
+Serie A;2;2_8;Florentina;host;2;10;4;60%;444;81%;16;1;0;2;3
+Serie A;2;2_8;Lecce;guest;2;6;2;40%;305;72%;15;3;0;1;3
+Serie A;2;2_9;Napoli;host;2;25;5;67%;656;90%;9;0;0;4;12
+Serie A;2;2_9;Sassuolo;guest;0;6;1;33%;330;81%;10;1;1;0;4
+Serie A;2;2_10;Cagliari;host ;0;12;2;33%;327;77%;9;0;0;1;4
+Serie A;2;2_10;Inter;guest;2;17;3;67%;678;87%;10;1;0;2;7
+Serie A;1;1_1;Frosinone;host;1;4;1;48%;440;87%;14;3;0;3;4
+Serie A;1;1_1;Napoli;guest;3;19;8;52%;473;88%;17;3;0;3;6
+Serie A;1;1_2;Empoli;host;0;10;4;47%;314;63%;17;2;0;2;2
+Serie A;1;1_2;Verona;guest;1;10;4;53%;351;70%;18;2;0;3;4
+Serie A;1;1_3;Genoa;host;1;4;2;31%;291;74%;14;2;0;2;3
+Serie A;1;1_3;Fiorentina;guest;4;9;5;69%;656;87%;13;3;0;1;4
+Serie A;1;1_4;Inter;host;2;22;3;47%;474;89%;8;1;0;1;8
+Serie A;1;1_4;Monza;guest;0;12;2;53%;528;90%;13;1;0;1;3
+Serie A;1;1_5;Sassuolo;host;0;11;3;49%;491;86%;9;0;0;0;7
+Serie A;1;1_5;Atalanta;guest;2;16;6;51%;480;86%;13;0;0;2;7
+Serie A;1;1_6;Roma;host;2;13;3;60%;475;81%;12;0;0;1;9
+Serie A;1;1_6;Salernitana;guest;2;3;2;40%;332;72%;9;4;0;1;1
+Serie A;1;1_7;Lecce;host;2;23;7;47%;458;85%;12;3;0;2;5
+Serie A;1;1_7;Lazio;guest;1;10;4;53%;516;85%;16;2;0;1;2
+Serie A;1;1_8;Udinese;host;0;18;5;48%;429;88%;12;1;0;3;7
+Serie A;1;1_8;Juventus;guest;3;9;4;52%;476;82%;10;3;0;4;3
+Serie A;1;1_9;Torino;host;0;11;2;58%;447;79%;8;1;0;1;8
+Serie A;1;1_9;Cagliari;guest;0;8;2;42%;338;71%;12;1;0;2;3
+Serie A;1;1_10;Bologna;host;0;17;5;54%;543;88%;10;2;0;2;3
+Serie A;1;1_10;Milan;guest;2;9;6;46%;481;85%;4;2;0;2;6
+Allsvenskan ;4;1_1;Elfsborg;Menang;2;21;6;47%;361;74%;13;1;0;3;4
+Allsvenskan ;4;1_2;Malmö FF;Menang;3;16;10;63%;621;85%;9;1;0;3;8
+Allsvenskan ;4;1_3;Häcken;Menang;4;22;8;56%;576;87%;8;0;0;1;7
+Allsvenskan ;4;1_4;Djurgårdens;Menang;1;25;9;44%;423;82%;9;0;0;1;6
+Allsvenskan ;4;1_5;Hammarby;Menang;2;19;8;59%;527;84%;12;0;0;4;4
+Allsvenskan ;4;1_6;Norrköping;Kalah;0;5;1;37%;361;76%;14;2;0;3;5
+Allsvenskan ;4;1_7;Mjällby;Kalah;0;9;4;48%;456;82%;16;2;0;0;6
+Allsvenskan ;4;1_8;Kalmar;Menang;2;12;4;65%;703;89%;11;1;0;1;4
+Allsvenskan ;4;1_9;Värnamo;Menang;1;15;4;44%;459;86%;13;1;0;2;8
+Allsvenskan ;4;1_10;Halmstad;Kalah;0;9;3;35%;372;78%;13;1;0;2;3
+Allsvenskan ;4;1_11;Brommapojkarna;Menang;2;10;4;52%;491;82%;12;1;0;2;3
+Allsvenskan ;4;1_12;IFK Göteborg;Kalah;0;5;1;56%;517;81%;15;3;1;2;7
+Allsvenskan ;4;1_13;Degerfors;Kalah;1;8;2;53%;304;73%;10;3;0;2;4
+Allsvenskan ;4;1_14;AIK;Kalah;0;9;0;56%;579;88%;8;2;0;0;5
+Allsvenskan ;4;1_15;Sirius;Kalah;1;9;2;44%;457;86%;9;0;0;0;2
+Allsvenskan ;4;1_16;Varberg;Kalah;0;11;3;41%;355;78%;22;4;0;0;3
+J1 League;17;17_1;Marinos;Host;4;15;4;64;582;88;12;2;0;1;5
+J1 League;17;17_1;Kashiwa Reysol;Guest;3;18;4;36;335;81;18;3;1;1;4
+J1 League;17;17_2;Cerezo Osaka;Host;2;13;6;44;332;69;7;1;0;3;5
+J1 League;17;17_2;Vissel;Guest;1;15;4;56;425;74;15;3;0;1;3
+J1 League;17;17_3;Nagoya;Host;2;17;5;48;389;75;11;0;0;1;7
+J1 League;17;17_3;Avispa;Guest;1;8;1;52;410;76;12;2;0;0;4
+J1 League;17;17_4;Kashima;Host;1;8;3;43;311;72;7;1;0;3;3
+J1 League;17;17_4;Shonan Bellmare;Guest;0;12;1;57;404;77;22;2;0;0;6
+J1 League;17;17_5;Kawasaki Frontale;Host;1;9;3;54;472;79;9;1;0;2;1
+J1 League;17;17_5;Sanfrecce;Guest;0;17;2;46;383;76;11;1;0;3;8
+J1 League;17;17_6;Sagan Tosu;Host;1;6;0;48;420;73;14;2;0;2;6
+J1 League;17;17_6;Consadole Sapporo;Guest;1;20;5;52;460;78;9;0;0;2;6
+J1 League;17;17_7;Albirex Niigata;Host;1;30;4;77;691;88;9;2;0;3;11
+J1 League;17;17_7;Kyoto Sanga;Guest;1;10;3;23;213;64;18;1;0;1;2
+J1 League;17;17_8;Gamba;Host;3;18;9;42;334;78;19;2;0;4;4
+J1 League;17;17_8;Tokyo;Guest;1;12;5;58;449;80;6;1;0;2;3
+J1 League;17;17_9;Yokohama FC;Host;0;7;3;37;327;72;8;2;0;0;3
+J1 League;17;17_9;Urawa Reds;Guest;0;18;5;63;558;83;7;2;0;2;9
+J1 League;19;19_1;Cerezo Osaka;host;0;11;3;67;512;82;11;0;0;0;5
+J1 League;19;19_1;Avispa;guest;1;8;1;33;257;63;11;2;0;2;6
+J1 League;19;19_2;Nagoya;host;2;10;5;32;329;74;6;0;0;2;5
+J1 League;19;19_2;Kawasaki Frontale;guest;0;22;4;68;689;87;8;0;0;1;4
+J1 League;19;19_3;Kashima;host;0;13;3;55;404;71;8;0;0;3;7
+J1 League;19;19_3;Kyoto Sanga;guest;0;11;1;45;330;64;12;1;0;1;3
+J1 League;19;19_4;Albirex Nilgata;host;2;15;5;42;406;77;5;0;0;1;6
+J1 League;19;19_4;Sanfrecce;guest;0;11;2;58;538;84;12;2;0;0;5
+J1 League;19;19_5;Yokohama FC;host;0;20;3;43;323;73;11;0;0;1;10
+J1 League;19;19_5;Gamba;guest;0;13;6;57;441;78;15;1;0;0;5
+J1 League;19;19_6;Sagan Tosu;host;1;10;2;70;612;85;11;0;0;2;5
+J1 League;19;19_6;Urawa Reds;guest;2;14;6;30;273;71;7;0;0;4;7
+J1 League;19;19_7;Tokyo;host;1;12;5;47;370;71;12;2;0;2;8
+J1 League;19;19_7;Kashiwa Reysol;guest;0;5;0;53;411;76;13;2;0;0;2
+J1 League;19;19_8;Vissel;host;1;14;3;46;392;70;5;1;0;0;2
+J1 League;19;19_8;Consadole Sapporo;guest;1;21;7;54;451;70;15;0;0;2;4
+J1 League;19;19_9;Marinos;host;4;22;13;55;558;86;10;1;0;4;2
+J1 League;19;19_9;Shonan Bellmare;guest;1;13;4;45;464;79;11;3;0;4;5
+Eredivisie;1;1_1;FC Volendam;Home;1;4;4;28%;233;63%;12;3;1;2;3
+Eredivisie;1;1_1;Vitesse;Away;2;13;9;72%;618;86%;11;1;0;0;7
+Eredivisie;1;1_2;PSV;Home;2;23;8;68%;658;86%;15;2;0;4;4
+Eredivisie;1;1_2;Utrecht;Away;0;7;1;32%;309;69%;14;1;0;1;2
+Eredivisie;1;1_3;Heerenveen;Home;3;19;9;46%;404;86%;9;0;0;1;7
+Eredivisie;1;1_3;RKC Waalwijk;Away;1;13;5;54%;468;86%;8;1;0;1;2
+Eredivisie;1;1_4;Ajax;Home;4;31;13;71%;515;88%;11;2;0;0;13
+Eredivisie;1;1_4;Heracles;Away;1;7;2;29%;217;70%;14;5;0;2;4
+Eredivisie;1;1_5;PEC Zwolle;Home;1;20;7;53%;429;80%;8;2;0;2;7
+Eredivisie;1;1_5;Sparta Rotterdam;Away;2;8;4;47%;402;74%;15;4;0;1;1
+Eredivisie;1;1_6;NEC;Home;3;8;6;49%;469;79%;4;1;0;0;2
+Eredivisie;1;1_6;Excelsior;Away;4;6;6;51%;468;82%;10;2;0;1;7
+Eredivisie;1;1_7;Feyenoord;Home;0;22;6;62%;522;85%;4;0;1;3;8
+Eredivisie;1;1_7;Fortuna Sittard;Away;0;14;5;38%;327;74%;21;6;0;2;3
+Eredivisie;1;1_8;AZ Alkmaar;Home;5;13;8;53%;454;84%;8;2;0;1;5
+Eredivisie;1;1_8;Go Ahead Eagles;Away;1;9;4;47%;410;77%;13;3;0;0;4
+Eredivisie;1;1_9;Almere;Home;1;12;4;34%;282;70%;15;2;1;0;2
+Eredivisie;1;1_9;Twente;Away;4;20;8;66%;540;83%;10;0;0;6;11
+Eredivisie;3;3_1;NEC;Home;3;13;10;41%;376;77%;9;1;0;0;2
+Eredivisie;3;3_1;RKC Waalwijk;Away;0;10;1;59%;532;84%;10;2;0;0;4
+Eredivisie;3;3_2;Excelsior;Home;2;9;6;44%;373;71%;5;1;0;0;0
+Eredivisie;3;3_2;Fortuna Sittard;Away;2;13;5;56%;451;76%;9;2;0;1;6
+Eredivisie;3;3_3;PEC Zwolle;Home;1;9;2;46%;399;73%;13;2;0;1;2
+Eredivisie;3;3_3;Utrecht;Away;0;10;1;54%;438;74%;8;3;0;2;8
+Eredivisie;3;3_4;Feyenoord;Home;6;31;18;63%;605;84%;8;0;0;1;8
+Eredivisie;3;3_4;Almere;Away;1;6;1;37%;353;76%;16;1;0;1;2
+Eredivisie;3;3_5;Heerenveen;Home;1;19;6;55%;502;84%;4;0;1;1;6
+Eredivisie;3;3_5;Sparta Rotterdam;Away;3;6;7;45%;427;76%;8;0;0;0;7
+EPL;1;1_1;Burnley;Host;0;6;1;34%;365;79%;11;0;1;0;6
+EPL;1;1_1;ManCity;Guest;3;17;8;66%;706;89%;8;0;0;1;5
+EPL;1;1_2;Arsenal;Host;2;15;7;79%;769;90%;12;2;0;2;8
+EPL;1;1_2;NottinghamForest;Guest;1;6;2;21%;200;68%;12;2;0;1;3
+EPL;1;1_3;SheffieldUnited;Host;0;8;1;32%;262;61%;18;3;0;2;5
+EPL;1;1_3;CrystalPalace;Guest;1;24;8;68%;562;82%;11;0;0;2;5
+EPL;1;1_4;Bournemouth;Host;1;14;5;63%;517;81%;9;1;0;0;10
+EPL;1;1_4;Westham;Guest;1;16;3;37%;304;67%;14;4;0;2;4
+EPL;1;1_5;Brighton;Host;4;27;12;71%;605;91%;11;2;0;2;6
+EPL;1;1_5;LutonTown;Guest;1;9;3;29%;234;71%;12;2;0;3;7
+EPL;1;1_6;Everton;Host;0;19;9;40%;366;78%;12;0;0;6;10
+EPL;1;1_6;Fulham;Guest;1;9;2;60%;556;84%;6;2;0;3;4
+EPL;1;1_7;Newcastle;Host;5;17;13;53%;502;85%;12;4;0;2;6
+EPL;1;1_7;AstonVilla;Guest;1;16;6;47%;447;85%;17;4;0;0;5
+EPL;1;1_8;Brentford;Host;2;11;6;30%;306;76%;12;1;0;1;3
+EPL;1;1_8;Tottenham;Guest;2;18;6;70%;711;89%;13;4;0;0;6
+EPL;1;1_9;Chelsea;Host;1;10;4;65%;698;87%;5;3;0;3;4
+EPL;1;1_9;Liverpool;Guest;1;13;1;35%;377;79%;13;3;0;5;4
+EPL;1;1_10;ManUnited;Host;1;15;3;51%;465;82%;15;2;0;1;8
+EPL;1;1_10;Wolves;Guest;0;23;6;49%;439;80%;10;3;0;3;7
+EPL;3;3_1;Chelsea;Host;3;19;8;68%;653;92%;15;2;0;0;6
+EPL;3;3_1;LutonTown;Guest;0;11;1;32%;306;78%;12;3;0;0;4
+EPL;3;3_2;Bournemouth;Host;0;11;3;43%;391;79%;18;1;0;3;6
+EPL;3;3_2;Tottenham;Guest;2;17;6;57%;537;88%;11;3;0;0;2
+EPL;3;3_3;Brentford;Host;1;12;1;60%;518;84%;9;0;0;2;8
+EPL;3;3_3;CrystalPalace;Guest;1;15;5;40%;348;81%;15;0;0;2;6
+EPL;3;3_4;Arsenal;Host;2;19;11;72%;680;90%;6;0;0;4;8
+EPL;3;3_4;Fulham;Guest;2;8;3;28%;274;71%;5;4;1;1;3
+EPL;3;3_5;ManUnited;Host;3;18;9;67%;637;86%;13;4;0;3;11
+EPL;3;3_5;NottinghamForest;Guest;2;9;4;33%;316;72%;11;4;1;2;3
+EPL;3;3_6;Everton;Host;0;15;7;46%;406;82%;10;3;0;1;7
+EPL;3;3_6;Wolves;Guest;1;11;2;54%;472;83%;14;4;0;1;0
+EPL;3;3_7;Brighton;Host;1;25;10;78%;749;89%;10;1;0;1;17
+EPL;3;3_7;WestHam;Guest;3;12;7;22%;208;67%;9;3;0;2;4
+EPL;3;3_8;SheffieldUnited;Host;1;6;2;20%;194;68%;11;4;0;1;1
+EPL;3;3_8;ManCity;Guest;2;30;9;80%;742;92%;2;0;0;2;12
+EPL;3;3_9;Burnley;Host;1;9;2;57%;594;88%;12;2;0;5;4
+EPL;3;3_9;AstonVilla;Guest;3;16;6;43%;454;83%;11;0;0;1;6
+EPL;3;3_10;Newcastle;Host;1;23;8;60%;590;86%;16;1;0;0;5
+EPL;3;3_10;Liverpool;Guest;2;9;4;40%;384;79%;10;2;1;1;9
+bundesliga;1;1;SV Wender Bremen;Home;0;6;1;31%;228;76%;16;2;0;3;0
+bundesliga;1;1;FC Bayern Muchen;Away;4;25;10;69%;656;92%;11;1;0;0;6
+bundesliga;1;2;Bayer 04 Leverkusen;Home;3;11;7;45%;437;83%;13;1;0;2;4
+bundesliga;1;2;RP Leipzig;Away;2;13;6;55%;544;86%;10;2;0;0;5
+bundesliga;1;3;Wfl Wolfsburg;Home;2;18;8;51%;456;83%;10;3;0;2;1
+bundesliga;1;3;1. FC Heindenheim 1864;Away;0;13;1;49%;478;80%;9;9;0;0;7
+bundesliga;1;4;TSG Hoffenheim;Home;1;24;5;50%;438;82%;9;0;0;3;4
+bundesliga;1;4;Sport-Club Freiburg;Away;2;17;8;50%;429;82%;9;1;0;0;2
+bundesliga;1;5;FC Augsburg;Home;4;20;8;55%;458;88%;9;1;0;4;8
+bundesliga;1;5;Borussia Monchengladbach;Away;4;10;7;45%;354;77%;14;2;0;1;7
+bundesliga;1;6;VfB Stuttgart;Home;5;19;9;55%;542;89%;5;1;0;2;7
+bundesliga;1;6;VfL Bochum 1848;Away;0;4;1;45%;368;77%;12;1;0;2;0
+bundesliga;1;6;Borussia Dortmund;Home;1;12;2;65%;720;89%;13;1;0;1;6
+bundesliga;1;7;1. FC Koln;Away;0;11;4;35%;349;78%;11;0;0;2;3
+bundesliga;1;8;1. FC Union Berlin;Home;4;12;7;49%;350;79%;15;1;0;1;3
+bundesliga;1;8;1. FSV Mainz 05;Away;1;9;3;51%;429;80%;16;5;0;0;1
+bundesliga;1;9;Eintracht Frankfrut;Home;1;10;4;59%;568;87%;9;2;0;0;7
+bundesliga;1;9;SV Darmstadt 98;Away;0;11;2;41%;357;79%;14;3;0;2;3
+bundesliga;1;1;Borussia Dortmund;Home;2;20;9;61%;516;86%;9;3;0;2;3
+bundesliga;1;1;FC Heidenheim 1846;Away;2;15;7;39%;285;74%;22;3;0;3;6
+bundesliga;1;2;Bayer 04 Leverkusen;Home;5;24;13;67%;760;91%;8;3;0;1;4
+bundesliga;1;2;SV Darmstadt 98;Away;5;5;1;33%;274;74%;11;2;0;1;2
+bundesliga;1;3;TSG Hoffenheim;Home;3;11;5;43%;345;77%;12;2;0;4;3
+bundesliga;1;3;Tfl Wolfsburg;Away;1;14;7;57%;509;88%;15;2;0;0;3
+bundesliga;1;4;SV Werder Bremen;Home;4;12;6;48%;342;77%;18;2;0;1;1
+bundesliga;1;4;FSV Mainz 05;Away;0;11;2;52%;414;76%;14;2;0;4;7
+bundesliga;1;5;FC Augsburg;Home;2;11;4;42%;251;62%;15;2;0;1;3
+bundesliga;1;5;Vfl Bochum 1848;Away;2;22;9;58%;432;77%;13;2;0;3;5
+bundesliga;1;6;Vfb Stuttgart;Home;5;14;6;50%;502;88%;9;1;0;1;2
+bundesliga;1;6;Sport Club Freiburg;Away;0;12;7;50%;540;85%;10;1;0;1;4
+bundesliga;1;7;Borussia Moenchengladbach;Home;1;8;3;38%;331;78%;5;0;0;0;1
+bundesliga;1;7;FC Bayern Muenchen;Away;2;25;9;62%;615;89%;20;2;0;1;15
+bundesliga;1;8;Eintracht Frankfurt;Home;1;13;3;60%;708;88%;10;1;0;2;8
+bundesliga;1;8;FC Koeln;Away;1;6;2;40%;363;77%;10;3;0;0;1
+bundesliga;1;9;FC Union Berlin;Home;0;4;1;36%;310;75%;16;3;1;1;3
+bundesliga;1;9;RB Leipzig;Away;3;14;7;64%;622;88%;7;1;0;2;7
+Saudi Pro League;5;1;Al-Ta'ee;Home;1;15;2;58;434;83;11;3;0;1;8
+Saudi Pro League;5;1;Abha;Away;0;12;3;42;321;74;13;1;0;3;4
+Saudi Pro League;5;2;Ittihad FC;Home;3;16;9;43;386;83;13;3;0;2;5
+Saudi Pro League;5;2;Al-Hilal;Away;4;14;7;57;494;85;15;1;0;0;11
+Saudi Pro League;5;3;Al Hazm;Home;1;5;4;31;287;78;15;0;0;3;0
+Saudi Pro League;5;3;Al Nassr;Away;5;19;10;69;637;88;12;1;0;4;8
+Saudi Pro League;5;4;Al-Ettifaq;Home;3;11;7;61;571;90;11;1;0;4;4
+Saudi Pro League;5;4;Damac F.C.;Away;1;7;2;39;362;86;10;2;0;1;1
+Saudi Pro League;5;5;Al-Taawon;Home;4;15;6;61;622;87;12;3;0;1;4
+Saudi Pro League;5;5;Al-Wahda;Away;1;6;1;39;391;79;12;0;0;1;5
+Saudi Pro League;5;6;Al Feiha;Home;0;11;3;44;400;84;15;1;0;1;5
+Saudi Pro League;5;6;Al-Raed;Away;0;5;1;56;490;85;15;3;0;0;8
+Saudi Pro League;5;7;Al Riyadh;Home;0;7;1;51;391;82;21;0;0;3;5
+Saudi Pro League;5;7;Al Akhdoud;Away;1;7;3;49;378;80;16;1;0;2;8
+Saudi Pro League;5;8;Al-Fateh;Home;5;10;6;38;289;77;16;3;0;1;6
+Saudi Pro League;5;8;Al-Ahli Saudi;Away;1;18;9;62;482;85;18;4;1;3;6
+Saudi Pro League;5;9;Al Shabab;Home;1;19;3;67;526;87;21;4;0;1;7
+Saudi Pro League;5;9;Al Khaleej;Away;3;8;3;33;274;78;20;2;1;2;4
+Saudi Pro League;4;1;Abha;Home;2;8;3;38;312;74;10;2;0;2;1
+Saudi Pro League;4;1;Al Feiha;Away;1;19;2;62;486;84;13;1;0;7;9
+Saudi Pro League;4;2;Al Wahda;Home;0;11;1;45;403;84;9;2;0;1;5
+Saudi Pro League;4;2;Ittihad FC;Away;3;10;5;55;492;87;14;1;0;3;4
+Saudi Pro League;4;3;Al Akhdoud;Home;0;4;2;36;356;77;12;3;0;1;5
+Saudi Pro League;4;3;Al-Taawon;Away;1;17;6;64;626;89;13;2;0;4;4
+Saudi Pro League;4;4;Al-Nassr;Home;4;16;10;55;503;92;17;2;0;5;5
+Saudi Pro League;4;4;Al Shabab;Away;0;3;1;45;419;87;14;5;1;5;4
+Saudi Pro League;4;5;Al-Ahli Saudi;Home;2;23;9;60;467;86;23;2;0;3;7
+Saudi Pro League;4;5;Al-Ta'ee;Away;0;3;1;40;328;80;17;2;1;0;1
+Saudi Pro League;4;6;Al-Hilal;Home;2;21;6;64;635;90;11;1;0;2;8
+Saudi Pro League;4;6;Al-Ettifaq;Away;0;6;2;36;370;81;11;0;0;1;0
+Saudi Pro League;4;7;Al-Raed;Home;3;10;4;47;419;82;13;2;0;1;6
+Saudi Pro League;4;7;Al Riyadh;Away;0;10;4;53;455;82;14;2;0;3;6
+Saudi Pro League;4;8;Damac F.C.;Home;2;11;4;29;266;73;13;2;0;2;3
+Saudi Pro League;4;8;Al-Fateh;Away;2;20;9;71;634;88;10;1;0;3;10
+Saudi Pro League;4;9;Al Khaleej;Home;1;8;3;55;444;84;15;2;0;4;6
+Saudi Pro League;4;9;Al Hazm;Away;1;13;6;45;366;83;14;4;0;1;5
+Saudi Pro League;3;1;Al-Ta'ee;Home;0;6;3;57;416;83;17;1;0;3;1
+Saudi Pro League;3;1;Al Wahda;Away;3;12;5;43;310;77;11;1;0;3;5
+Saudi Pro League;3;2;Al-Ahli Saudi;Home;1;14;1;67;554;87;14;0;0;2;3
+Saudi Pro League;3;2;Al Akhdoud;Away;0;6;1;33;272;69;14;2;0;0;2
+Saudi Pro League;3;3;Al Riyadh;Home;0;10;4;41;440;87;10;3;0;2;4
+Saudi Pro League;3;3;Ittihad FC;Away;4;17;8;59;629;91;11;1;0;3;3
+Saudi Pro League;3;4;Al Shabab;Home;1;20;6;67;506;88;17;4;0;4;10
+Saudi Pro League;3;4;Damac F.C.;Away;1;7;2;33;259;77;16;4;0;3;0
+Saudi Pro League;3;5;Al-Taawon;Home;1;19;6;64;512;86;17;1;0;4;6
+Saudi Pro League;3;5;Abha;Away;0;13;1;36;293;76;9;3;0;2;6
+Saudi Pro League;3;6;Al-Ettifaq;Home;1;16;7;59;544;88;21;3;0;4;10
+Saudi Pro League;3;6;Al Khaleej;Away;1;2;1;41;398;81;14;1;0;0;1
+Saudi Pro League;3;7;Al-Raed;Home;0;7;2;39;335;79;15;1;1;1;4
+Saudi Pro League;3;7;Al-Hilal;Away;4;20;10;61;497;90;13;0;1;1;5
+Saudi Pro League;3;8;Al Feiha;Home;0;7;1;52;460;88;9;1;0;3;5
+Saudi Pro League;3;8;Al Hazm;Away;0;5;1;48;442;87;16;2;0;2;3
+Saudi Pro League;3;9;Al-Fateh;Home;0;9;1;31;323;81;9;1;0;4;3
+Saudi Pro League;3;9;Al-Nassr;Away;5;24;7;69;689;91;14;1;0;2;9
+Saudi Pro League;2;1;Damac F.C.;Home;2;22;5;57;503;81;12;2;0;4;11
+Saudi Pro League;2;1;Al Riyadh;Away;2;5;3;43;410;76;14;2;0;1;0
+Saudi Pro League;2;2;Al Akhdoud;Home;1;12;2;43;408;85;15;2;1;1;4
+Saudi Pro League;2;2;Al-Fateh;Away;3;11;7;57;540;87;11;1;0;1;3
+Saudi Pro League;2;3;Al-Nassr;Home;0;24;6;61;574;88;8;2;0;5;13
+Saudi Pro League;2;3;Al-Taawon;Away;2;8;6;39;387;81;14;2;0;3;4
+Saudi Pro League;2;4;Al Wahda;Home;3;8;5;34;256;81;15;2;0;0;2
+Saudi Pro League;2;4;Al Shabab;Away;1;8;4;66;487;88;15;1;0;2;7
+Saudi Pro League;2;5;Al-Hilal;Home;1;20;8;77;664;87;9;3;0;4;10
+Saudi Pro League;2;5;Al Feiha;Away;1;3;2;23;212;60;9;2;0;7;2
+Saudi Pro League;2;6;Al Khaleej;Home;1;7;4;47;444;88;20;2;0;2;1
+Saudi Pro League;2;6;Al-Ahli Saudi;Away;3;10;4;53;488;88;15;3;0;7;4
+Saudi Pro League;2;7;Al Hazm;Home;0;6;2;51;414;82;16;3;0;1;3
+Saudi Pro League;2;7;Al-Ettifaq;Away;2;6;4;49;407;85;15;0;0;5;3
+Saudi Pro League;2;8;Abha;Home;1;8;2;31;273;75;10;3;0;1;1
+Saudi Pro League;2;8;Al-Raed;Away;0;14;5;69;563;88;12;2;0;0;12
+Saudi Pro League;2;9;Ittihad FC;Home;2;14;8;56;587;90;10;2;0;3;7
+Saudi Pro League;2;9;Al-Ta'ee;Away;0;8;2;44;473;88;10;2;0;1;0
+ligue1;1;1_1;nice;host;1;8;3;40%;383;84%;13;3;0;5;3
+ligue1;1;1_1;losc;guest;1;12;5;60%;582;88%;9;2;0;1;3
+ligue1;1;1_2;marseille;host;2;14;4;42%;309;77%;7;1;0;3;10
+ligue1;1;1_2;reims;guest;1;11;4;58%;426;81%;16;3;0;4;10
+ligue1;1;1_3;psg;host;0;20;4;78%;1001;93%;8;0;0;0;9
+ligue1;1;1_3;lorient;guest;0;4;0;22%;286;76%;6;0;0;0;2
+ligue1;1;1_4;brest;host;3;15;8;48%;359;80%;13;2;0;0;6
+ligue1;1;1_4;lens;guest;2;8;2;52%;395;76%;15;4;0;4;8
+ligue1;1;1_5;nantes;host;1;9;4;43%;437;84%;14;2;0;2;7
+ligue1;1;1_5;toulouse;guest;2;9;5;57%;578;84%;14;2;0;2;5
+ligue1;1;1_6;clermont_foot;host;2;15;7;55%;538;85%;7;0;0;3;6
+ligue1;1;1_6;monaco;guest;4;14;8;45%;455;80%;16;4;0;1;2
+ligue1;1;1_7;montpellier;host;2;14;5;58%;491;82%;8;1;0;5;4
+ligue1;1;1_7;le_havre;guest;2;12;4;42%;357;74%;12;2;0;0;2
+ligue1;1;1_8;rennes;host;5;29;14;71%;707;91%;7;0;0;1;5
+ligue1;1;1_8;metz;guest;1;9;3;29%;286;81%;10;2;0;4;4
+ligue1;1;1_9;strasbourg;host;2;8;2;35%;312;75%;8;2;0;3;1
+ligue1;1;1_9;lyon;guest;1;23;7;65%;577;88%;11;2;0;2;6
+J1;21;21.1;Consadole Sapporo;Home;0;14;3;64%;619;82;15;4;0;3;3
+J1;21;21.1;Albirex Niigata;Away;1;3;1;36%;357;69;13;2;1;1;2
+J1;21;21.2;Sanfrecce;Home;1;15;4;68%;603;84;8;1;0;1;8
+J1;21;21.2;Yokohama FC;Away;1;10;2;32%;298;70;9;2;0;1;1
+J1;21;21.3;Cerezo Osaka;Home;2;15;5;47%;426;81;9;2;0;1;6
+J1;21;21.3;Urawa Reds;Away;0;7;3;53%;489;85;19;1;0;1;2
+J1;21;21.4;Vissel;Home;2;13;4;55%;428;79;8;0;0;5;6
+J1;21;21.4;Sagan Tosu;Away;1;8;3;45%;364;75;6;0;0;3;6
+J1;21;21.5;Tokyo;Home;1;6;1;60%;435;78;13;1;0;1;4
+J1;21;21.5;Kashima;Away;3;15;7;40%;291;73;14;1;1;2;7
+J1;21;21.6;Yokohama FM;Home;0;14;5;58%;632;87;6;1;0;2;4
+J1;21;21.6;Kawasaki Frontale;Away;1;17;6;42%;471;82;10;1;0;7;6
+J1;21;21.7;Gamba;Home;3;6;3;62%;543;84;12;2;0;2;2
+J1;21;21.7;Kashiwa Reysol;Away;1;15;5;38%;326;74;12;1;1;0;9
+J1;21;21.8;Kyoto Sanga;Home;2;15;7;47%;290;68;16;3;0;1;6
+J1;21;21.8;Nagoya;Away;1;12;3;53%;332;68;8;1;0;3;7
+J1;21;21.9;Shonan Bellmare;Home;0;10;3;71%;540;83;14;1;0;1;7
+J1;21;21.9;Avispa;Away;1;6;2;29%;232;60;10;1;0;1;0
+J1;22;22.1;Nagoya;Home;1;9;5;27%;276;74;8;1;0;2;2
+J1;22;22.1;Albirex Niigata;Away;0;10;2;73%;721;89;12;3;0;3;5
+J1;22;22.2;Kashima;Home;3;19;4;40%;315;74;8;2;0;0;9
+J1;22;22.2;Consadole Sapporo;Away;0;16;3;60%;475;83;8;1;0;0;9
+J1;22;22.3;Kawasaki Frontale;Home;3;19;6;63%;565;84;7;1;0;5;9
+J1;22;22.3;Gamba;Away;4;9;6;37%;342;76;12;3;0;1;5
+J1;22;22.4;Kyoto Sanga;Home;0;10;2;58%;352;63;8;2;0;2;2
+J1;22;22.4;Kashiwa Reysol;Away;1;10;1;42%;252;59;9;2;0;3;9
+J1;22;22.5;Cerezo Osaka;Home;0;17;7;64%;496;84;11;1;0;3;5
+J1;22;22.5;Tokyo;Away;1;9;5;36%;300;68;10;3;0;3;2
+J1;22;22.6;Shonan Bellmare;Home;1;6;3;44%;336;66;18;1;0;0;3
+J1;22;22.6;Sanfrecce;Away;0;17;5;56%;399;73;16;0;0;1;7
+J1;22;22.7;Yokohama FC;Home;2;7;3;26%;212;58;10;0;0;0;2
+J1;22;22.7;Vissel;Away;0;14;2;74%;593;85;6;1;0;2;8
+J1;22;22.8;Sagan Tosu;Home;0;13;4;69%;531;87;14;1;0;1;8
+J1;22;22.8;Avispa;Away;1;7;2;31%;252;69;4;2;0;1;1
+J1;22;22.9;Urawa Reds;Home;0;18;6;43%;372;77;16;2;0;0;4
+J1;22;22.9;Yokohama FM;Away;0;8;3;57%;479;82;11;0;0;2;7
+J1;23;23.1;Consadole Sapporo;Home;1;16;5;52%;521;79;10;2;0;4;1
+J1;23;23.1;Sagan Tosu;Away;1;6;1;48%;494;76;14;2;0;1;1
+J1;23;23.2;Avispa;Home;2;8;5;36%;304;70;15;2;0;1;0
+J1;23;23.2;Yokohama FC;Away;0;13;5;64%;515;82;10;1;0;1;12
+J1;23;23.3;Kashiwa Reysol;Home;1;12;4;23%;198;59;19;2;0;2;5
+J1;23;23.3;Cerezo Osaka;Away;1;10;1;77%;637;86;5;0;0;3;9
+J1;23;23.4;Yokohama FM;Home;2;18;3;43%;359;81;10;0;1;1;9
+J1;23;23.4;Gamba;Away;1;12;3;57%;464;83;11;2;0;2;5
+J1;23;23.5;Nagoya;Home;1;8;3;33%;267;69;14;2;0;0;3
+J1;23;23.5;Kashima;Away;0;13;3;67%;540;85;9;3;0;1;5
+J1;23;23.6;Albirex Niigata;Home;2;18;9;71%;728;88;12;1;0;1;6
+J1;23;23.6;Shonan Bellmare;Away;2;8;2;29%;297;72;13;3;0;0;1
+J1;23;23.7;Kawasaki Frontale;Home;0;12;0;46%;358;77;4;0;1;3;5
+J1;23;23.7;Vissel;Away;1;14;6;54%;407;80;16;2;0;2;5
+J1;23;23.8;Tokyo;Home;2;13;6;44%;308;73;10;1;0;4;3
+J1;23;23.8;Kyoto Sanga;Away;0;12;5;56%;392;76;16;1;0;3;2
+J1;23;23.9;Sanfrecce;Home;2;20;14;56%;364;74;10;1;0;0;6
+J1;23;23.9;Urawa Reds;Away;1;8;2;44%;289;64;13;1;0;1;11
+J1;24;24.1;Avispa;Home;0;8;4;42%;400;77;14;2;0;0;4
+J1;24;24.1;Albirex Niigata;Away;1;13;2;58%;542;87;7;3;0;1;2
+J1;24;24.2;Kashima;Home;2;12;4;44%;357;79;11;2;0;4;4
+J1;24;24.2;Sagan Tosu;Away;1;11;5;56%;444;82;16;5;0;2;5
+J1;24;24.3;Gamba;Home;2;15;7;51%;480;83;14;2;0;2;1
+J1;24;24.3;Shonan Bellmare;Away;1;11;3;49%;457;83;18;3;0;1;4
+J1;24;24.4;Kyoto Sanga;Home;3;13;5;35%;250;62;15;1;0;3;7
+J1;24;24.4;Consadole Sapporo;Away;0;16;3;65%;479;82;12;3;0;3;4
+J1;24;24.5;Yokohama FC;Home;0;9;1;48%;453;80;7;2;0;1;2
+J1;24;24.5;Cerezo Osaka;Away;1;24;10;52%;485;83;9;1;0;1;4
+J1;24;24.6;Urawa Reds;Home;1;13;5;40%;333;75;13;4;0;0;5
+J1;24;24.6;Nagoya;Away;0;15;4;60%;470;83;9;2;0;1;7
+J1;24;24.7;Vissel;Home;1;6;3;59%;410;73;10;2;0;3;2
+J1;24;24.7;Kashiwa Reysol;Away;1;6;1;41%;295;63;13;1;0;0;5
+J1;24;24.8;Sanfrecce;Home;3;14;11;45%;357;78;14;3;0;4;3
+J1;24;24.8;Kawasaki Frontale;Away;2;7;5;55%;445;78;13;2;0;3;4
+J1;24;24.9;Yokohama FM;Home;2;13;6;64%;599;87;13;0;0;0;4
+J1;24;24.9;Tokyo;Away;1;10;5;36%;334;76;10;2;0;2;1
+La Liga 2022;32;32_1;Real Sociedad;Home;0;9;2;57%;475;85%;17;3;1;7;8
+La Liga 2022;32;32_1;Betis;Away;0;9;2;43%;377;81%;7;4;0;3;1
+La Liga 2022;32;32_2;Elche;Home;3;6;2;53%;440;78%;17;2;0;2;2
+La Liga 2022;32;32_2;Mallorca;Away;0;13;2;47%;397;78%;13;3;0;2;1
+La Liga 2022;32;32_3;Alavés;Home;1;11;5;38%;292;57%;10;2;0;0;2
+La Liga 2022;32;32_3;Rayo Vallecano;Away;0;20;3;62%;457;75%;9;3;1;0;12
+La Liga 2022;32;32_4;Valencia;Home;1;11;4;53%;338;68%;11;2;0;2;9
+La Liga 2022;32;32_4;Osasuna;Away;2;9;3;47%;318;67%;22;2;0;5;5
+La Liga 2022;32;32_5;Getafe;Home;1;12;5;40%;361;78%;17;2;0;3;6
+La Liga 2022;32;32_5;Villarreal;Away;2;11;6;60%;573;84%;6;0;0;2;6
+La Liga 2022;32;32_6;Granada;Home;1;16;4;54%;358;81%;10;3;1;0;13
+La Liga 2022;32;32_6;Levante;Away;4;17;8;46%;335;77%;9;2;0;1;2
+La Liga 2022;32;32_7;Atlético Madrid;Home;2;10;3;52%;489;81%;18;3;1;2;6
+La Liga 2022;32;32_7;Espanyol;Away;1;11;5;48%;472;83%;12;5;0;2;3
+La Liga 2022;32;32_8;Athletic Club;Home;2;10;2;50%;472;76%;13;2;0;2;5
+La Liga 2022;32;32_8;Celta Vigo;Away;5;6;4;50%;477;80%;15;2;0;1;4
+La Liga 2022;32;32_9;Sevilla;Home;2;7;2;40%;464;85%;11;3;0;1;0
+La Liga 2022;32;32_9;Real Madrid;Away;3;15;6;60%;680;88%;9;4;0;4;3
+La Liga 2022;32;32_10;Barcelona;Home;0;18;6;76%;686;89%;16;4;0;0;8
+La Liga 2022;32;32_10;Cádis;Away;1;6;4;24%;229;60%;9;1;0;5;1
+La Liga 2022;34;34_1;Sevilla;Home;1;11;6;58%;524;84%;15;2;0;0;5
+La Liga 2022;34;34_1;Cádis;Away;1;10;4;42%;383;80%;11;2;0;1;6
+La Liga 2022;34;34_2;Alavés;Home;2;11;5;32%;251;70%;14;5;0;1;5
+La Liga 2022;34;34_2;Villarreal;Away;1;16;6;68%;534;85%;5;2;0;5;8
+La Liga 2022;34;34_3;Real Madrid;Home;4;11;5;59%;617;92%;11;2;0;2;6
+La Liga 2022;34;34_3;Espanyol;Away;0;20;6;41%;422;89%;6;0;0;1;8
+La Liga 2022;34;34_4;Valencia;Home;1;6;1;31%;239;58%;11;4;1;0;1
+La Liga 2022;34;34_4;Levante;Away;1;24;6;69%;508;80%;21;3;0;0;7
+La Liga 2022;34;34_5;Athletic Club;Home;2;11;4;43%;361;79%;18;3;0;2;5
+La Liga 2022;34;34_5;Atlético Madrid;Away;0;9;3;57%;482;79%;15;2;0;1;3
+La Liga 2022;34;34_6;Elche;Home;1;11;4;57%;421;80%;13;4;0;2;7
+La Liga 2022;34;34_6;Osasuna;Away;1;9;3;43%;312;75%;18;2;0;1;4
+La Liga 2022;34;34_7;Granada;Home;1;15;6;42%;290;63%;11;1;0;0;5
+La Liga 2022;34;34_7;Celta Vigo;Away;1;13;6;58%;422;71%;13;3;0;1;4
+La Liga 2022;34;34_8;Rayo Vallecano;Home;1;13;7;43%;380;78%;15;2;0;0;8
+La Liga 2022;34;34_8;Real Sociedad;Away;1;8;3;57%;512;82%;7;1;0;0;5
+La Liga 2022;34;34_9;Barcelona;Home;2;17;5;71%;664;87%;13;2;0;6;5
+La Liga 2022;34;34_9;Mallorca;Away;1;6;2;29%;279;73%;12;3;0;2;2
+La Liga 2022;34;34_10;Getafe;Home;0;13;2;34%;311;68%;13;1;0;1;2
+La Liga 2022;34;34_10;Real Betis;Away;0;9;4;66%;592;83%;13;1;0;5;4
+La Liga 2022;36;36_1;Valencia;Home;0;19;5;44%;340;79%;17;1;0;6;7
+La Liga 2022;36;36_1;Real Betis;Away;3;9;5;56%;442;80%;11;3;0;3;3
+La Liga 2022;36;36_2;Granada;Home;1;12;2;40%;287;62%;20;4;0;3;2
+La Liga 2022;36;36_2;Athletic Club;Away;0;8;1;60%;409;71%;11;0;1;2;7
+La Liga 2022;36;36_3;Barcelona;Home;3;10;4;54%;552;87%;18;3;0;1;2
+La Liga 2022;36;36_3;Celta Vigo;Away;1;13;5;46%;471;83%;6;0;1;3;8
+La Liga 2022;36;36_4;Osasuna;Home;1;12;1;68%;467;78%;10;2;0;4;7
+La Liga 2022;36;36_4;Getafe;Away;1;6;0;32%;225;55%;17;4;1;1;2
+La Liga 2022;36;36_5;Alavés;Home;2;27;9;45%;307;74%;11;3;0;2;12
+La Liga 2022;36;36_5;Espanyol;Away;1;5;3;55%;389;76%;15;1;1;1;3
+La Liga 2022;36;36_6;Sevilla;Home;0;18;4;73%;589;88%;11;4;0;3;6
+La Liga 2022;36;36_6;Mallorca;Away;0;10;2;27%;238;66%;18;6;0;0;3
+La Liga 2022;36;36_7;Elche;Home;0;9;0;56%;555;82%;16;2;0;1;6
+La Liga 2022;36;36_7;Atlético Madrid;Away;2;11;6;44%;445;78%;7;2;0;8;3
+La Liga 2022;36;36_8;Real Sociedad;Home;3;13;7;53%;451;81%;13;4;0;1;2
+La Liga 2022;36;36_8;Cádis;Away;0;14;1;47%;387;75%;11;2;0;7;12
+La Liga 2022;36;36_9;Rayo Vallecano;Home;1;17;3;56%;421;85%;13;5;0;3;9
+La Liga 2022;36;36_9;Villarreal;Away;5;11;8;44%;341;82%;10;2;0;1;3
+La Liga 2022;36;36_10;Real Madrid;Home;6;27;16;54%;533;89%;8;2;0;3;6
+La Liga 2022;36;36_10;Levante;Away;0;18;1;46%;451;84%;6;1;0;2;6
+La Liga 2022;38;38_1;Real Madrid;Home;0;17;3;53%;555;90%;7;0;0;1;8
+La Liga 2022;38;38_1;Real Betis;Away;0;11;2;47%;510;86%;12;0;0;0;5
+La Liga 2022;38;38_2;Rayo Vallecano;Home;2;19;8;56%;420;81%;8;0;0;5;7
+La Liga 2022;38;38_2;Levante;Away;4;14;7;44%;352;76%;12;3;0;0;3
+La Liga 2022;38;38_3;Valencia;Home;2;9;3;45%;320;71%;22;3;0;0;3
+La Liga 2022;38;38_3;Celta Vigo;Away;0;9;3;55%;398;73%;19;3;0;3;3
+La Liga 2022;38;38_4;Elche;Home;3;19;9;60%;511;88%;11;2;0;2;8
+La Liga 2022;38;38_4;Getafe;Away;1;7;2;40%;353;81%;9;2;0;1;3
+La Liga 2022;38;38_5;Alavés;Home;0;9;2;49%;400;80%;11;0;0;0;4
+La Liga 2022;38;38_5;Cádis;Away;1;13;6;51%;403;79%;13;1;0;2;4
+La Liga 2022;38;38_6;Granada;Home;0;15;5;38%;312;71%;9;1;0;1;7
+La Liga 2022;38;38_6;Espanyol;Away;0;10;5;62%;523;82%;12;0;0;0;3
+La Liga 2022;38;38_7;Osasuna;Home;0;11;1;63%;462;81%;8;2;0;1;5
+La Liga 2022;38;38_7;Mallorca;Away;2;14;6;37%;278;67%;14;2;0;2;7
+La Liga 2022;38;38_8;Barcelona;Home;0;14;3;70%;668;91%;12;3;0;5;12
+La Liga 2022;38;38_8;Villarreal;Away;2;4;3;30%;305;78%;7;1;0;0;1
+La Liga 2022;38;38_9;Real Sociedad;Home;1;12;3;63%;587;82%;16;4;0;0;3
+La Liga 2022;38;38_9;Atlético Madrid;Away;2;6;5;37%;348;73%;11;2;0;2;2
+La Liga 2022;38;38_10;Sevilla;Home;1;13;3;66%;680;85%;13;3;0;2;5
+La Liga 2022;38;38_10;Athletic Club;Away;0;10;1;34%;342;77%;12;3;0;0;0
+Campeonato Brasileiro Série A;16;16_1;Palmeiras;Home;3;14;7;65%;432;83%;17;3;0;1;4
+Campeonato Brasileiro Série A;16;16_1;Fortaleza;Away;1;11;6;35%;241;73%;28;6;0;1;4
+Campeonato Brasileiro Série A;16;16_2;Cuiabá;Home;2;13;6;28%;212;74%;9;2;0;2;2
+Campeonato Brasileiro Série A;16;16_2;São Paulo;Away;1;12;3;72%;555;88%;17;5;0;0;4
+Campeonato Brasileiro Série A;16;16_3;Grêmio;Home;1;6;2;38%;355;70%;7;3;0;0;3
+Campeonato Brasileiro Série A;16;16_3;Atlético Mineiro;Away;0;17;3;62%;563;83%;17;4;0;1;8
+Campeonato Brasileiro Série A;16;16_4;Flamengo;Home;1;16;7;67%;565;86%;8;2;0;4;12
+Campeonato Brasileiro Série A;16;16_4;América - MG;Away;1;16;4;33%;289;71%;13;4;0;4;7
+Campeonato Brasileiro Série A;16;16_5;Bahia;Home;0;18;5;60%;482;83%;13;3;0;2;11
+Campeonato Brasileiro Série A;16;16_5;Corinthians;Away;0;5;1;40%;333;73%;20;2;0;4;5
+Campeonato Brasileiro Série A;16;16_6;Santos;Home;2;7;2;36%;294;70%;23;3;0;1;2
+Campeonato Brasileiro Série A;16;16_6;Botafogo;Away;2;18;7;64%;502;81%;20;3;0;0;8
+Campeonato Brasileiro Série A;16;16_7;Vasco da Gama;Home;0;18;2;57%;423;86%;19;2;0;2;8
+Campeonato Brasileiro Série A;16;16_7;Athletico-PR;Away;2;9;2;43%;338;78%;21;3;1;1;2
+Campeonato Brasileiro Série A;16;16_8;Bragantino;Home;0;20;4;55%;409;73%;15;3;0;0;13
+Campeonato Brasileiro Série A;16;16_8;Internacional;Away;0;11;5;45%;359;73%;14;2;0;3;4
+Campeonato Brasileiro Série A;16;16_9;Cruzeiro;Home;0;16;1;69%;566;83%;8;4;0;2;13
+Campeonato Brasileiro Série A;16;16_9;Goiás;Away;1;7;2;31%;260;70%;21;5;0;2;1
+Campeonato Brasileiro Série A;16;16_10;Coritiba;Home;2;9;5;27%;225;68%;15;2;0;0;7
+Campeonato Brasileiro Série A;16;16_10;Fluminense;Away;0;15;3;73%;614;88%;7;1;0;1;11
+Campeonato Brasileiro Série A;18;18_1;Santos;Home;1;8;3;64%;562;86%;19;3;0;2;3
+Campeonato Brasileiro Série A;18;18_1;Atheletico - PR;Away;1;3;2;36%;323;78%;27;2;0;2;3
+Campeonato Brasileiro Série A;18;18_2;Goiás;Home;1;9;3;36%;317;76%;15;1;0;2;5
+Campeonato Brasileiro Série A;18;18_2;Fortaleza;Away;0;12;6;64%;563;88%;10;3;0;0;2
+Campeonato Brasileiro Série A;18;18_3;Internacional;Home;2;15;4;56%;563;86%;18;3;1;0;1
+Campeonato Brasileiro Série A;18;18_3;Corinthians;Away;2;9;3;44%;445;84%;7;3;0;2;4
+Campeonato Brasileiro Série A;18;18_4;Fluminense;Home;2;10;5;55%;422;82%;18;4;1;3;0
+Campeonato Brasileiro Série A;18;18_4;Palmeiras;Away;1;18;5;45%;314;79%;22;2;0;3;8
+Campeonato Brasileiro Série A;18;18_5;Vasco da Gama;Home;1;11;5;54%;473;82%;19;1;0;1;5
+Campeonato Brasileiro Série A;18;18_5;Grêmio;Away;0;12;4;46%;404;76%;17;1;0;1;7
+Campeonato Brasileiro Série A;18;18_6;São Paulo;Home;0;19;3;68%;573;87%;16;6;0;6;9
+Campeonato Brasileiro Série A;18;18_6;Atlético Mineiro;Away;2;8;2;32%;276;73%;17;5;0;1;3
+Campeonato Brasileiro Série A;18;18_7;Coritiba;Home;0;9;1;51%;335;72%;21;3;0;2;3
+Campeonato Brasileiro Série A;18;18_7;Bragantino;Away;1;11;2;49%;344;69%;22;5;0;0;4
+Campeonato Brasileiro Série A;18;18_8;Bahia;Home;3;22;7;67%;468;85%;20;4;0;2;7
+Campeonato Brasileiro Série A;18;18_8;América-MG;Away;1;8;5;33%;233;67%;19;3;1;3;2
+Campeonato Brasileiro Série A;18;18_9;Cruzeiro;Home;0;13;4;68%;563;84%;17;1;0;1;8
+Campeonato Brasileiro Série A;18;18_9;Botafogo;Away;0;2;1;32%;279;69%;7;2;0;1;1
+Campeonato Brasileiro Série A;18;18_10;Cuiabá;Home;3;17;6;37%;295;84%;9;2;0;1;10
+Campeonato Brasileiro Série A;18;18_10;Flamengo;Away;0;10;5;63%;525;89%;9;0;0;0;6
+Campeonato Brasileiro Série A;20;20_1;São Paulo;Home;0;13;4;64%;564;85%;12;4;0;7;5
+Campeonato Brasileiro Série A;20;20_1;Botafogo;Away;0;12;1;36%;319;74%;9;2;0;0;2
+Campeonato Brasileiro Série A;20;20_2;Internacional;Home;0;19;5;77%;656;87%;14;4;0;1;10
+Campeonato Brasileiro Série A;20;20_2;Fortaleza;Away;1;8;3;23%;201;56%;12;5;0;1;6
+Campeonato Brasileiro Série A;20;20_3;Cuiabá;Home;0;13;3;53%;388;84%;17;2;0;2;9
+Campeonato Brasileiro Série A;20;20_3;Palmeiras;Away;2;18;5;47%;373;81%;18;6;0;1;2
+Campeonato Brasileiro Série A;20;20_4;Fluminense;Home;3;19;5;72%;656;91%;7;1;0;3;7
+Campeonato Brasileiro Série A;20;20_4;América-MG;Away;1;13;3;28%;256;75%;12;1;0;0;1
+Campeonato Brasileiro Série A;20;20_5;Cruzeiro;Home;1;19;8;46%;399;83%;17;3;0;1;10
+Campeonato Brasileiro Série A;20;20_5;Corinthians;Away;1;5;2;54%;480;86%;13;3;0;1;3
+Campeonato Brasileiro Série A;20;20_6;Vasco da Gama;Home;1;16;3;41%;350;76%;20;6;0;1;3
+Campeonato Brasileiro Série A;20;20_6;Atlético Mineiro;Away;0;10;5;59%;508;85%;14;3;0;0;7
+Campeonato Brasileiro Série A;20;20_7;Coritiba;Home;2;15;4;37%;298;75%;10;3;0;2;4
+Campeonato Brasileiro Série A;20;20_7;Flamengo;Away;3;17;5;63%;522;84%;10;3;0;0;5
+Campeonato Brasileiro Série A;20;20_8;Bahia;Home;4;13;5;47%;350;68%;11;2;0;1;4
+Campeonato Brasileiro Série A;20;20_8;Bragantino;Away;0;11;7;53%;384;76%;18;5;0;5;7
+Campeonato Brasileiro Série A;20;20_9;Santos;Home;2;19;7;56%;395;81%;16;6;0;0;9
+Campeonato Brasileiro Série A;20;20_9;Grêmio;Away;1;9;3;44%;334;78%;21;4;1;2;4
+Campeonato Brasileiro Série A;20;20_10;Goiás;Home;1;13;3;46%;357;77%;15;2;0;2;4
+Campeonato Brasileiro Série A;20;20_10;Atheletico - PR;Away;1;14;5;54%;426;83%;16;4;0;2;7
+Campeonato Brasileiro Série A;22;22_1;Goiás;Home;0;11;2;37%;330;76%;16;1;2;3;5
+Campeonato Brasileiro Série A;22;22_1;Internacional;Away;0;11;2;63%;575;86%;13;3;1;2;5
+Campeonato Brasileiro Série A;22;22_2;Atheletico - PR;Home;1;23;6;52%;445;82%;13;1;1;1;12
+Campeonato Brasileiro Série A;22;22_2;Atlético Mineiro;Away;1;9;7;48%;435;78%;13;3;0;1;7
+Campeonato Brasileiro Série A;22;22_3;Botafogo;Home;1;17;7;47%;405;82%;14;3;1;1;12
+Campeonato Brasileiro Série A;22;22_3;Flamengo;Away;2;12;4;53%;464;86%;8;3;0;2;6
+Campeonato Brasileiro Série A;22;22_4;Grêmio;Home;2;11;5;41%;413;80%;18;2;0;3;2
+Campeonato Brasileiro Série A;22;22_4;Cuiabá;Away;0;17;3;59%;553;89%;16;1;0;0;9
+Campeonato Brasileiro Série A;22;22_5;Corinthians;Home;0;6;2;43%;380;86%;13;1;1;2;2
+Campeonato Brasileiro Série A;22;22_5;Palmeiras;Away;0;16;4;57%;474;85%;17;2;1;1;11
+Campeonato Brasileiro Série A;22;22_6;Fluminense;Home;1;13;5;65%;535;85%;13;4;0;4;5
+Campeonato Brasileiro Série A;22;22_6;Fortaleza;Away;0;20;5;35%;293;76%;16;3;0;2;7
+Campeonato Brasileiro Série A;22;22_7;Bahia;Home;1;11;3;54%;477;81%;22;2;0;2;6
+Campeonato Brasileiro Série A;22;22_7;Vasco da Gama;Away;1;6;1;46%;419;78%;17;3;1;2;0
+Campeonato Brasileiro Série A;22;22_8;Cruzeiro;Home;0;15;3;49%;317;70%;16;1;0;4;8
+Campeonato Brasileiro Série A;22;22_8;Bragantino;Away;0;13;5;51%;341;69%;15;5;0;3;5
+Campeonato Brasileiro Série A;22;22_9;América-MG;Home;2;12;7;37%;346;73%;14;1;0;4;3
+Campeonato Brasileiro Série A;22;22_9;Santos;Away;0;10;2;63%;587;86%;16;4;1;2;5
+J1 League ;12;12_1;Condadole Sapporo;Host;5;20;10;51%;452;74%;14;1;0;1;2
+J1 League ;12;12_1;FC Tokyo;Guest;1;14;5;49%;437;76%;16;2;0;1;3
+J1 League ;12;12_2;Nagoya;Host;1;14;2;43%;363;73%;9;1;0;2;6
+J1 League ;12;12_2;Gamba Osaka;Guest;0;9;2;57%;477;78%;21;6;0;0;3
+J1 League ;12;12_3;San Frecce;Host;3;10;3;52%;391;72%;14;1;0;2;3
+J1 League ;12;12_3;Avispa Fukuoka;Guest;1;12;3;48%;365;68%;18;2;0;1;2
+J1 League ;12;12_4;Cerezo Osaka;Host;0;4;1;45%;285;49%;12;2;1;2;0
+J1 League ;12;12_4;Kashima Antlers;Guest;1;9;3;55%;342;59%;14;1;0;5;4
+J1 League ;12;12_5;Niigata;Host;0;17;4;62%;640;87%;7;2;0;3;6
+J1 League ;12;12_5;Kashiwa Reysol;Guest;0;8;1;38%;387;78%;21;4;0;1;4
+J1 League ;12;12_6;Yokohama FM;Host;4;14;4;59%;587;84%;10;1;0;3;5
+J1 League ;12;12_6;Kyoto Sanga;Guest;1;11;2;41%;399;79%;18;5;0;4;2
+J1 League ;12;12_7;Vissel Kobe;Host;3;13;7;55%;428;77%;5;0;0;4;7
+J1 League ;12;12_7;Yokohama FC;Guest;0;9;4;45%;350;69%;13;2;0;1;8
+J1 League ;12;12_8;Kawasaki;Host;1;19;5;54%;598;83%;13;1;0;1;2
+J1 League ;12;12_8;Sagan Tosu;Guest;0;8;1;46%;502;81%;4;1;0;5;3
+J1 League ;14;14_1;Condadole Sapporo;Host;2;11;3;53%;395;72%;9;1;0;2;3
+J1 League ;14;14_1;Kyoto Sanga ;Guest;1;9;1;47%;355;71%;17;1;0;1;4
+J1 League ;14;14_2;Shonan Bellmare;Host;0;8;3;47%;392;70%;20;1;0;1;6
+J1 League ;14;14_2;Cerezo Osaka;Guest;2;10;3;53%;426;79%;5;0;0;5;3
+J1 League ;14;14_3;Nagoya;Host;2;9;4;35%;292;61%;10;3;0;5;4
+J1 League ;14;14_3;San Frecce;Guest;1;20;7;65%;526;77%;9;1;0;0;7
+J1 League ;14;14_4;Yokohama FC;Host;2;7;2;30%;310;72%;6;1;0;1;1
+J1 League ;14;14_4;Kawasaki;Guest;1;12;4;70%;708;87%;7;0;0;2;1
+J1 League ;14;14_5;Gamba Osaka;Host;0;14;4;42%;375;80%;14;2;0;4;7
+J1 League ;14;14_5;Yokohama FM;Guest;2;10;5;58%;541;82%;12;3;1;0;6
+J1 League ;14;14_6;Avispa Fukuoka;Host;0;13;4;40%;355;74%;8;1;0;1;6
+J1 League ;14;14_6;Urawa Reds;Guest;0;11;4;60%;529;83%;8;1;0;2;4
+J1 League ;14;14_7;Kashima Antlers;Host;1;7;4;51%;358;73%;13;0;0;3;3
+J1 League ;14;14_7;FC Tokyo;Guest;1;11;3;49%;346;76%;19;4;0;2;7
+J1 League ;14;14_8;Kashiwa Reysol;Host;1;14;0;57%;435;74%;10;2;0;2;8
+J1 League ;14;14_8;Vissel Kobe;Guest;1;3;1;43%;334;67%;14;1;0;0;1
+J1 League ;14;14_9;Sagan Tosu;Host;2;7;3;36%;369;79%;13;1;0;1;4
+J1 League ;14;14_9;Niigata;Guest;0;19;5;64%;663;89%;4;1;0;2;9
+J1 League ;24;24_1;Avispa;Host;0;8;4;42%;400;77%;14;2;0;0;4
+J1 League ;24;24_1;Albirex Niigata;Guest;1;13;2;58%;542;87%;7;3;0;1;2
+J1 League ;24;24_2;Urawa Reds;Host;1;13;5;40%;333;75%;13;4;0;0;5
+J1 League ;24;24_2;Nagoya;Guest;0;15;4;60%;470;83%;9;2;0;1;7
+J1 League ;24;24_3;Kashima;Host;2;12;4;44%;357;79%;11;2;0;4;4
+J1 League ;24;24_3;Sagan Tosu;Guest;1;11;5;56%;444;82%;16;5;0;2;5
+J1 League ;24;24_4;Vissel;Host;1;6;3;59%;410;73%;10;2;0;3;2
+J1 League ;24;24_4;Kashiwa Reysol;Guest;1;6;1;41%;295;63%;13;1;0;0;5
+J1 League ;24;24_5;Gamba;Host;2;15;7;51%;480;83%;14;2;0;2;1
+J1 League ;24;24_5;Shonan Bellmare;Guest;1;11;3;49%;457;83%;18;3;0;1;4
+J1 League ;24;24_6;Sanfrece;Host;3;14;11;45%;357;78%;14;3;0;4;3
+J1 League ;24;24_6;Kawasaki Frontale;Guest;2;7;5;55%;445;78%;13;2;0;3;4
+J1 League ;24;24_7;Kyoto Sanga;Host;3;13;5;35%;250;62%;15;1;0;3;7
+J1 League ;24;24_7;Consadole Sapporo;Guest;0;16;3;65%;479;82%;12;3;0;3;4
+J1 League ;24;24_8;Marinos;Host;2;13;6;64%;599;87%;13;0;0;0;4
+J1 League ;24;24_8;Tokyo;Guest;1;10;5;36%;334;76%;10;2;0;2;1
+J1 League ;24;24_9;Yokohama FC;Host;0;9;1;48%;453;80%;7;2;0;1;2
+J1 League ;24;24_9;Cerezo Osaka;Guest;1;24;10;52%;485;83%;9;1;0;1;4
+J1 League ;26;26_1;Consodole Sapporo;Host;4;24;9;51%;420;78%;11;2;0;3;8
+J1 League ;26;26_1;Gamba;Guest;0;6;1;49%;432;74%;15;3;0;0;2
+J1 League ;26;26_2;Nagoya;Host;1;6;2;41%;361;74%;17;1;0;0;2
+J1 League ;26;26_2;Yokohama FC;Guest;1;17;3;59%;490;82%;7;1;0;2;8
+J1 League ;26;26_3;Abirex Niigata;Host;1;9;3;64%;600;86%;10;1;9;9;4
+J1 League ;26;26_3;Urawa reds;Guest;1;8;2;36%;346;74%;8;0;0;2;2
+J1 League ;26;26_4;Cerezo Osaka;Host;3;8;4;44%;404;79%;10;0;0;3;5
+J1 League ;26;26_4;Kawasaki Frontale;Guest;0;13;4;56%;514;84%;14;1;0;2;2
+J1 League ;26;26_5;Kashiwa Reysol;Host;2;16;5;31%;253;72%;12;1;0;4;7
+J1 League ;26;26_5;Marinos;Guest;0;8;3;69%;571;84%;11;1;0;3;3
+J1 League ;26;26_6;Sagan Tosu;Host;0;5;0;61%;501;80%;14;0;0;1;5
+J1 League ;26;26_6;Sanfrecce;Guest;2;18;11;39%;342;72%;10;2;0;6;3
+J1 League ;26;26_7;Shonan Bellmare;Host;2;7;4;34%;232;62%;16;3;0;2;6
+J1 League ;26;26_7;Kashima;Guest;2;19;6;66%;440;76%;5;1;0;1;9
+J1 League ;26;26_8;Tokyo;Host;1;13;2;64%;515;81%;7;2;0;0;9
+J1 League ;26;26_8;Avispa;Guest;2;13;6;36%;296;68%;13;1;0;3;2
+J1 League ;26;26_9;Visssel;Host;2;11;3;56%;397;70%;7;3;0;1;7
+J1 League ;26;26_9;Kyoto Sanga;Guest;1;9;3;44%;320;86%;11;1;0;1;3
+Saudi Pro League;24;24_1;Al-Ta'ee;host;1;12;4;43%;390;78%;16;3;0;1;2
+Saudi Pro League;24;24_1;Abha;guest;0;13;4;57%;492;80%;8;1;0;1;8
+Saudi Pro League;24;24_2;Al- Adalh;host;2;8;3;48%;389;79%;15;3;0;1;5
+Saudi Pro League;24;24_2;Al-Taawon;guest;1;11;5;52%;417;83%;15;0;0;1;3
+Saudi Pro League;24;24_3;Ittihad FC;host;2;10;7;35%;317;72%;13;4;1;0;4
+Saudi Pro League;24;24_3;Al Shabab;guest;1;22;5;65%;559;86%;18;3;0;2;3
+Saudi Pro League;24;24_4;Al-Fateh;host;1;18;4;46%;363;81%;12;0;0;3;4
+Saudi Pro League;24;24_4;Al Wahda;guest;1;13;2;54%;432;81%;17;3;1;2;4
+Saudi Pro League;24;24_5;Al-Ettifaq;host;2;10;4;40%;340;77%;17;2;0;4;3
+Saudi Pro League;24;24_5;Damac F.C.;guest;0;12;2;60%;491;81%;9;2;1;1;2
+Saudi Pro League;24;24_6;Al-Nassr;host;4;17;7;60%;655;91%;15;2;0;7;3
+Saudi Pro League;24;24_6;Al-Raed;guest;0;6;4;40%;446;82%;3;1;0;2;1
+Saudi Pro League;24;24_7;Al Feiha;host;0;14;1;66%;561;82%;14;3;0;1;10
+Saudi Pro League;24;24_7;Al Khaleej;guest;3;11;4;34%;301;69%;12;1;0;3;2
+Saudi Pro League;24;24_8;Al Baten;host;1;13;6;24%;221;70%;10;3;0;0;3
+Saudi Pro League;24;24_8;Al Hilal;guest;0;26;4;76%;714;89%;14;3;0;0;9
+Saudi Pro League;26;26_1;Al-Nassr;host;1;23;7;66%;605;88%;14;2;0;2;8
+Saudi Pro League;26;26_1;Al Khaleej;guest;1;7;3;34%;332;77%;15;3;0;2;2
+Saudi Pro League;26;26_2;Al Adalh;host;1;10;5;57%;323;76%;17;1;0;2;3
+Saudi Pro League;26;26_2;Al Wahda;guest;2;9;5;43%;253;70%;21;4;0;5;6
+Saudi Pro League;26;26_3;Ittihad FC;host;4;14;9;49%;548;85%;15;0;0;3;4
+Saudi Pro League;26;26_3;Abha;guest;0;7;2;51%;547;87%;6;1;0;1;3
+Saudi Pro League;26;26_4;Al-Taawon;host;2;16;5;52%;422;85%;22;3;0;2;4
+Saudi Pro League;26;26_4;Al Raed;guest;1;15;5;48%;388;79%;14;5;0;1;4
+Saudi Pro League;26;26_5;Al Feiha;host;3;10;5;37%;368;79%;15;2;0;5;4
+Saudi Pro League;26;26_5;Al-Fateh;guest;0;5;1;63%;607;89%;7;1;0;5;6
+Saudi Pro League;26;26_6;Al Baten;host;4;20;10;45%;350;80%;8;4;0;1;10
+Saudi Pro League;26;26_6;Al-Ta'ee;guest;3;14;4;55%;452;83%;25;3;0;1;2
+Saudi Pro League;26;26_7;Al-Ettifaq;host;1;13;3;28%;247;71%;4;0;0;4;6
+Saudi Pro League;26;26_7;Al Shabab;guest;0;24;2;72%;621;89%;7;1;0;1;10
+Saudi Pro League;26;26_8;Damac F.C.;host;0;8;2;29%;283;72%;8;3;0;0;1
+Saudi Pro League;26;26_8;Al Hilal;guest;1;8;2;71%;667;88%;15;3;0;5;6
+Saudi Pro League;28;28_1;Damac F.C.;host;1;10;4;44%;364;79%;22;2;0;7;4
+Saudi Pro League;28;28_1;Abha;guest;0;8;4;56%;457;80%;11;1;1;1;6
+Saudi Pro League;28;28_2;Al Feiha;host;1;16;4;62%;539;84%;11;1;0;2;8
+Saudi Pro League;28;28_2;Al-Raed;guest;1;4;2;38%;347;74%;11;4;0;1;1
+Saudi Pro League;28;28_3;Al-Ettifaq;host;0;9;1;39%;287;80%;11;1;2;1;4
+Saudi Pro League;28;28_3;Al-Fateh;guest;4;11;8;61%;454;89%;12;1;0;3;3
+Saudi Pro League;28;28_4;Al Wahda;host;1;10;2;48%;390;82%;18;1;0;3;2
+Saudi Pro League;28;28_4;Al Khaleej;guest;4;11;7;52%;410;79%;20;1;0;1;3
+Saudi Pro League;28;28_5;Al-Taawon;host;2;10;4;55%;445;84%;15;4;0;2;6
+Saudi Pro League;28;28_5;Al-Ta'ee;guest;1;24;6;45%;369;85%;13;1;0;1;5
+Saudi Pro League;28;28_6;Al Adalh;host;2;7;3;22%;179;72%;10;3;1;0;4
+Saudi Pro League;28;28_6;Al Hilal;guest;0;19;6;78%;608;93%;12;2;0;2;10
+Saudi Pro League;28;28_7;Al-Nassr;host;3;13;6;44%;392;85%;8;4;0;4;7
+Saudi Pro League;28;28_7;Al Shabab;guest;2;9;3;56%;495;86%;18;4;0;0;4
+Saudi Pro League;28;28_8;Ittihad FC;host;1;15;4;63%;593;88%;12;1;0;1;8
+Saudi Pro League;28;28_8;Al Baten;guest;0;3;0;37%;359;80%;12;3;0;0;5
+Saudi Pro League;30;30_1;Damac F.C.;host;1;5;3;48%;390;85%;9;2;1;3;4
+Saudi Pro League;30;30_1;Al Shabab;guest;4;18;10;52%;416;90%;15;3;0;4;5
+Saudi Pro League;30;30_2;Al Wahda;host;0;2;1;46%;427;76%;21;2;0;3;1
+Saudi Pro League;30;30_2;Al Feiha;guest;1;26;8;54%;489;79%;14;2;0;0;4
+Saudi Pro League;30;30_3;Ittihad FC;host;2;10;2;54%;487;86%;11;3;0;1;8
+Saudi Pro League;30;30_3;Al-Ta'ee;guest;0;12;3;46%;423;86%;8;1;0;2;2
+Saudi Pro League;30;30_4;Al Hilal;host;3;13;5;67%;651;91%;12;0;0;3;5
+Saudi Pro League;30;30_4;Al-Raed;guest;2;10;4;33%;322;83%;7;2;0;5;3
+Saudi Pro League;30;30_5;Al-Nassr;host;3;15;8;44%;444;87%;11;1;0;2;5
+Saudi Pro League;30;30_5;Al-Fateh;guest;0;11;2;56%;556;90%;6;1;0;2;4
+Saudi Pro League;30;30_6;Al-Taawon;host;3;18;8;56%;486;88%;15;0;1;3;3
+Saudi Pro League;30;30_6;Al Baten;guest;1;14;5;44%;378;85%;7;0;0;2;4
+Saudi Pro League;30;30_7;Al Khaleej;host;3;20;9;47%;351;83%;15;2;1;2;9
+Saudi Pro League;30;30_7;Abha;guest;1;6;3;53%;403;84%;8;1;0;1;6
+Saudi Pro League;30;30_8;Al Adalh;host;0;14;2;48%;403;84%;6;2;0;2;12
+Saudi Pro League;30;30_8;Al-Ettifaq;guest;2;11;5;52%;449;85%;11;0;0;1;7
+P LEAGUE;1;;NOTTM FOREST;HOME;2;16;4;49;436;78;5;2;0;3;6
+P LEAGUE;1;;SHETTFIELD UNITED;AWAY;1;7;3;51;437;75;9;3;0;2;7
+P LEAGUE;1;;LIVERPOOL;HOME;3;26;10;65;600;86;11;1;1;0;10
+P LEAGUE;1;;BOURNEMOUTH;AWAY;1;13;5;35;325;72;13;3;0;3;2
+P LEAGUE;1;;WOLVES;HOME;1;16;5;46;462;84;14;3;1;4;6
+P LEAGUE;1;;BRIGHTON;AWAY;4;16;8;54;552;88;11;6;0;7;3
+P LEAGUE;1;;FULHAM;HOME;0;10;2;55;474;83;13;2;1;1;5
+P LEAGUE;1;;BRENTFORD;AWAY;3;17;8;45;391;83;12;2;0;4;5
+P LEAGUE;1;;TOTTENHAM;HOME;2;17;6;56;502;85;9;1;0;1;5
+P LEAGUE;1;;MAN UNITED;AWAY;0;22;6;44;401;82;8;3;0;4;6
+P LEAGUE;1;;MAN CITY;HOME;1;14;4;59;684;89;13;1;0;1;3
+P LEAGUE;1;;NEWCASTLE;AWAY;0;7;1;41;477;86;11;5;0;4;0
+P LEAGUE;1;;ASTON VILLA;HOME;4;13;7;61;566;89;8;3;0;1;7
+P LEAGUE;1;;EVERTON;AWAY;0;9;2;39;361;81;12;4;0;1;6
+P LEAGUE;1;;WEST HAM;HOME;3;12;6;24;227;69;12;2;1;3;3
+P LEAGUE;1;;CHELSEA;AWAY;1;17;4;76;716;87;9;3;0;2;9
+P LEAGUE;1;;CRYSTAL PALACE;HOME;0;14;2;46;428;86;14;2;0;0;1
+P LEAGUE;1;;ARSENAL;AWAY;1;14;3;54;489;86;10;1;1;2;8
+Bundesliga;28;28_1;Union Berlin;Host;1;12;4;36%;297;60%;18;3;0;2;2
+Bundesliga;28;28_1;Koln;Guest;0;6;1;64%;538;77%;11;3;0;0;4
+Bundesliga;28;28_2;Bielefeld;Host;1;10;4;54%;473;76%;13;1;0;1;6
+Bundesliga;28;28_2;VfB;Guest;1;15;4;46%;404;72%;12;5;0;1;2
+Bundesliga;28;28_3;Hoffenheim;Host;1;13;6;59%;516;82%;9;3;0;1;5
+Bundesliga;28;28_3;Bochum;Guest;2;21;6;41%;359;73%;11;2;0;2;6
+Bundesliga;28;28_4;Freiburg;Host;1;8;3;38%;381;76%;12;1;0;0;1
+Bundesliga;28;28_4;Bayern;Guest;4;21;10;62%;613;88%;7;1;0;3;6
+Bundesliga;28;28_5;Leverkusen;Host;2;19;6;70%;646;85%;13;0;0;2;3
+Bundesliga;28;28_5;Hertha Berlin;Guest;1;7;4;30%;281;64%;11;1;0;0;3
+Bundesliga;28;28_6;Eintracht Frankfurt;Host;0;21;6;69%;655;86%;10;1;0;2;9
+Bundesliga;28;28_6;Greuther Furt;Guest;0;4;2;31%;313;71%;14;0;0;5;0
+Bundesliga;28;28_7;Dortmund;Host;1;10;2;64%;664;83%;7;3;0;1;7
+Bundesliga;28;28_7;Leipzig;Guest;4;10;5;36%;373;75%;10;1;0;2;5
+Bundesliga;28;28_8;Augsburg;Host;3;13;5;38%;308;68%;15;1;0;4;3
+Bundesliga;28;28_8;Wolfsburg;Guest;0;18;5;62%;500;79%;10;0;0;0;5
+Bundesliga;28;28_9;Monchengladbach;Host;1;16;7;53%;535;78%;13;2;0;5;3
+Bundesliga;28;28_9;Mainz 05;Guest;1;21;10;47%;485;75%;20;1;0;3;7
+Bundesliga;30;30_1;Freiburg;Host;3;15;8;63%;521;83%;8;0;0;3;3
+Bundesliga;30;30_1;Bochum;Guest;0;10;3;37%;310;71%;10;0;1;1;4
+Bundesliga;30;30_2;Mainz 05;Host;0;11;0;47%;375;73%;18;0;0;1;5
+Bundesliga;30;30_2;VfB;Guest;0;6;3;53%;423;72%;12;1;0;0;3
+Bundesliga;30;30_3;Dortmund;Host;6;12;8;60%;548;89%;13;0;0;6;4
+Bundesliga;30;30_3;Wolfsburg;Guest;1;10;4;40%;359;79%;9;2;0;0;6
+Bundesliga;30;30_4;Augsburg;Host;0;13;2;59%;377;72%;14;4;0;3;1
+Bundesliga;30;30_4;Hertha Berlin;Guest;1;13;1;41%;262;61%;17;4;0;0;7
+Bundesliga;30;30_5;Monchengladbach;Host;1;17;5;58%;484;78%;15;3;0;1;5
+Bundesliga;30;30_5;Koln;Guest;3;17;6;42%;343;75%;19;2;0;3;5
+Bundesliga;30;30_6;Bielefeld;Host;0;8;3;24%;219;64%;11;1;0;2;5
+Bundesliga;30;30_6;Bayern;Guest;3;22;8;76%;710;87%;11;2;0;0;4
+Bundesliga;30;30_7;Hoffenheim;Host;0;16;3;59%;498;79%;19;3;0;1;10
+Bundesliga;30;30_7;Greuther Furth;Guest;0;8;1;41%;358;73%;15;3;0;2;1
+Bundesliga;30;30_8;Union Berlin;Host;2;13;4;44%;404;71%;10;2;0;1;4
+Bundesliga;30;30_8;Eintracht Frankurt;Guest;0;10;3;56%;513;76%;8;1;0;1;3
+Bundesliga;30;30_9;Leverkusen;Host;0;12;4;46%;484;83%;18;2;0;1;7
+Bundesliga;30;30_9;Leipzig;Guest;1;4;1;54%;588;86%;7;1;0;0;1
+Bundesliga;32;32_1;Union Berlin;Host;1;8;3;54%;437;73%;14;2;0;3;2
+Bundesliga;32;32_1;Greuther Fürth;Guest;1;7;2;46%;377;75%;14;2;0;3;4
+Bundesliga;32;32_2;Augsburg;Host;1;12;4;47%;334;70%;14;2;0;1;5
+Bundesliga;32;32_2;Koln;Guest;4;17;7;53%;384;77%;14;4;0;3;7
+Bundesliga;32;32_3;VfB;Host;1;19;5;57%;500;83%;8;3;0;2;7
+Bundesliga;32;32_3;Wolfburg;Guest;1;15;5;43%;381;75%;11;2;0;0;9
+Bundesliga;32;32_4;Biefeld;Host;1;7;1;56%;476;77%;14;3;0;3;2
+Bundesliga;32;32_4;Hertha Berlin;Guest;1;11;5;44%;381;71%;13;1;0;2;6
+Bundesliga;32;32_5;Mainz 05;Host;3;22;7;31%;240;84%;11;0;0;1;7
+Bundesliga;32;32_5;Bayern;Guest;1;7;1;69%;571;70%;11;4;0;0;8
+Bundesliga;32;32_6;Dortmund;Host;3;18;9;69%;562;88%;14;4;0;3;10
+Bundesliga;32;32_6;Bochum;Guest;4;12;6;31%;248;69%;18;3;0;1;3
+Bundesliga;32;32_7;Hoffenheim;Host;3;19;7;58%;489;78%;13;1;0;3;4
+Bundesliga;32;32_7;Freiburg;Guest;4;11;5;42%;363;70%;6;0;0;2;5
+Bundesliga;32;32_8;Mӧnchengladbach;Host;3;9;6;49%;517;85%;11;4;1;0;3
+Bundesliga;32;32_8;Leipzig;Guest;1;12;7;51%;520;85%;20;2;0;3;8
+Bundesliga;32;32_9;Leverkusen;Host;2;11;3;55%;598;85%;5;0;0;4;4
+Bundesliga;32;32_9;Eicntracht Frankurt;Guest;0;9;4;45%;494;84%;8;0;0;1;4
+Bundesliga;34;34_1;Augsburg;Host;2;8;3;49%;355;78%;21;2;0;1;3
+Bundesliga;34;34_1;Greuther Fürth;Guest;1;7;4;51%;361;73%;20;2;0;0;5
+Bundesliga;34;34_2;Dortmund;Host;2;8;2;74%;700;85%;9;0;0;1;3
+Bundesliga;34;34_2;Hertha Berlin;Guest;1;5;1;26%;244;59%;16;2;0;2;1
+Bundesliga;34;34_3;Union Berlin;Host;3;16;11;42%;391;69%;12;3;0;0;1
+Bundesliga;34;34_3;Bochum;Guest;2;5;3;58%;520;79%;7;2;0;1;3
+Bundesliga;34;34_4;Biefeld;Host;1;9;4;42%;416;79%;11;1;0;4;2
+Bundesliga;34;34_4;Leipzig;Guest;1;20;10;58%;570;86%;8;1;0;1;6
+Bundesliga;34;34_5;Wolfsburg;Host;2;9;2;33%;338;78%;5;1;0;2;2
+Bundesliga;34;34_5;Bayern;Guest;2;26;8;67%;689;89%;10;2;0;2;12
+Bundesliga;34;34_6;Mainz 05;Host;2;13;5;49%;435;77%;7;2;0;2;5
+Bundesliga;34;34_6;Eintracht Frankfurt;Guest;2;12;4;51%;449;77%;11;0;0;2;3
+Bundesliga;34;34_7;VfB;Host;2;24;12;34%;243;72%;15;1;0;1;8
+Bundesliga;34;34_7;Koln;Guest;1;13;;66%;468;79%;10;4;0;3;10
+Bundesliga;34;34_8;Leverkusen;Host;2;11;4;53%;470;80%;6;2;0;1;6
+Bundesliga;34;34_8;Freiburg;Guest;1;13;2;47%;415;76%;12;3;0;0;9
+Bundesliga;34;34_9;Monchengladbach;Host;5;18;9;55%;567;86%;8;1;0;2;6
+Bundesliga;34;34_9;Hoffenheim;Guest;1;10;2;45%;461;86%;12;2;0;0;2
+Ligue 1;1;1_1;Nice;Home ;1;8;3;40%;383;84%;13;3;0;5;3
+Ligue 1;1;1_1;LOSC;Away;1;12;5;60%;582;88%;9;2;0;1;3
+Ligue 1;1;1_2;Marseille;Home ;2;14;4;42%;309;77%;7;1;0;3;10
+Ligue 1;1;1_2;Reims;Away;1;11;4;58%;426;81%;16;3;0;4;10
+Ligue 1;1;1_3;PSG;Home ;0;20;4;78%;1001;93%;8;0;0;0;9
+Ligue 1;1;1_3;Lorient;Away;0;4;0;22%;286;76%;6;0;0;0;2
+Ligue 1;1;1_4;Brest;Home ;3;15;8;485;359;80%;13;2;0;0;6
+Ligue 1;1;1_4;Lens;Away;2;8;2;52%;395;76%;15;4;1;4;8
+Ligue 1;1;1_5;Nantes;Home ;1;9;4;43%;434;84%;14;2;0;2;7
+Ligue 1;1;1_5;Toulose;Away;2;9;5;57%;578;84%;14;2;0;2;5
+Ligue 1;1;1_6;Clermont;Home ;2;15;7;55%;538;85%;7;0;0;3;6
+Ligue 1;1;1_6;Monaco;Away;4;14;8;45%;455;80%;16;4;0;1;2
+Ligue 1;1;1_7;Montpeiller;Home ;2;14;5;58%;491;82%;8;1;0;5;4
+Ligue 1;1;1_7;Le Havre;Away;2;12;4;42%;357;74%;12;2;0;0;2
+Ligue 1;1;1_8;Rennes;Home ;5;29;14;71%;707;91%;7;0;0;1;5
+Ligue 1;1;1_8;Metz;Away;1;9;3;29%;286;81%;10;2;0;4;4
+Ligue 1;1;1_9;Strasbourg;Home ;2;8;2;35%;312;75%;8;2;0;3;1
+Ligue 1;1;1_9;Lyon;Away;1;23;7;65%;577;88%;11;2;0;2;6
+Ligue 1;2;2_1;Metz;Home;2;10;5;42%;361;77%;15;3;1;0;4
+Ligue 1;2;2_1;Marseille;Away;2;22;5;58%;477;84%;9;2;0;2;9
+Ligue 1;2;2_2;Lyon;Home;1;7;3;64%;532;86%;20;4;1;2;6
+Ligue 1;2;2_2;Montpellier;Away;4;14;8;36%;299;79%;9;1;0;4;2
+Ligue 1;2;2_3;Toulouse;Home;1;8;2;23%;232;72%;8;0;0;1;5
+Ligue 1;2;2_3;PSG;Away;1;16;3;77%;767;91%;11;3;0;3;5
+Ligue 1;2;2_4;LOSC;Home;2;18;8;65%;548;87%;8;0;1;0;7
+Ligue 1;2;2_4;Nantes;Away;0;14;4;35%;293;80%;15;2;0;5;5
+Ligue 1;2;2_5;Reims;Home;2;8;4;46%;419;78%;9;0;0;5;3
+Ligue 1;2;2_5;Clrmont;Away;0;11;4;54%;472;81%;6;0;0;2;10
+Ligue 1;2;2_6;Lorient;Home;1;9;2;40%;459;87%;8;1;0;3;0
+Ligue 1;2;2_6;Nice;Away;1;21;8;60%;673;93%;10;1;0;1;9
+Ligue 1;2;2_7;Le Harve;Home;1;18;7;57%;462;78%;18;0;0;4;5
+Ligue 1;2;2_7;Brest;Away;2;10;5;43%;355;72%;15;2;0;2;3
+Ligue 1;2;2_8;Monaco;Home;3;9;4;57%;570;82%;19;2;0;3;4
+Ligue 1;2;2_8;Strasbourg;Away;0;4;1;43%;438;81%;16;1;0;2;3
+Ligue 1;2;2_9;Lens;Home;1;15;4;51%;478;84%;15;2;0;1;11
+Ligue 1;2;2_9;Rennes;Away;1;10;5;49%;503;83%;10;1;0;1;0
+League 1;3;3_1;Nantes;Home;3;3;3;34%;364;77%;8;2;0;2;1
+League 1;3;3_1;Monaco;Away;3;27;10;66%;698;86%;7;2;0;2;10
+League 1;3;3_2;Marseille;Home;2;15;6;44%;412;84%;4;0;0;2;3
+League 1;3;3_2;Brest;Away;0;18;7;56%;507;85%;8;1;0;1;10
+League 1;3;3_3;PSG;Home;3;17;7;67%;733;92%;8;0;0;1;5
+League 1;3;3_3;Lens;Away;1;12;4;33%;385;80%;16;5;0;2;5
+League 1;3;3_4;Rennes;Home;2;22;8;62%;679;89%;5;1;0;2;5
+League 1;3;3_4;Le Havre;Away;2;7;3;38%;439;81%;7;0;1;3;2
+League 1;3;3_5;Clermont;Home;0;16;4;73%;635;86%;8;1;0;1;10
+League 1;3;3_5;Metz;Away;1;10;5;27%;254;73%;10;1;0;2;2
+League 1;3;3_6;Strasbourg;Home;2;11;3;38%;353;82%;16;1;0;0;3
+League 1;3;3_6;Toulouse;Away;0;7;1;62%;576;82%;17;3;0;2;3
+League 1;3;3_7;Montpellier;Home;1;20;3;52%;370;71%;9;1;0;0;5
+League 1;3;3_7;Reims;Away;3;12;6;48%;354;71%;19;1;0;2;3
+League 1;3;3_8;Lorient;Home;4;9;6;35%;322;79%;23;2;0;2;5
+League 1;3;3_8;LOSC;Away;1;18;7;65%;578;87%;12;4;0;0;8
+League 1;3;3_9;Nice;Home;0;21;4;59%;513;85%;8;1;0;7;7
+League 1;3;3_9;Lyon;Away;0;0;1;41%;374;77%;14;3;0;1;2
+League 1;4;4_1;Nantes;Home;1;10;2;36%;348;80%;7;0;1;2;2
+League 1;4;4_1;Marseille;Away;1;26;9;64%;602;88%;13;2;0;0;7
+League 1;4;4_2;Brest;Home;0;13;2;48%;417;80%;12;3;0;0;7
+League 1;4;4_2;Rennes;Away;0;6;3;52%;455;82%;12;1;0;2;5
+League 1;4;4_3;Monaco;Home;3;12;6;53%;501;81%;21;4;0;3;5
+League 1;4;4_3;Lens;Away;0;12;1;47%;452;81%;16;2;0;3;2
+League 1;4;4_4;Toulouse;Home;2;9;5;36%;347;74%;19;1;0;0;0
+League 1;4;4_4;Clermont;Away;2;15;3;64%;583;84%;17;3;0;2;8
+League 1;4;4_5;Le Harve;Home;3;17;6;43%;441;85%;10;0;0;0;5
+League 1;4;4_5;Lorient;Away;0;9;2;57%;595;90%;7;0;0;2;4
+League 1;4;4_6;Metz;Home;2;12;4;36%;293;77%;10;0;0;0;4
+League 1;4;4_6;Reims;Away;2;12;2;64%;540;85%;17;4;0;2;1
+League 1;4;4_7;LOSC;Home;1;15;6;60%;525;85%;15;2;0;0;5
+League 1;4;4_7;Montpellier;Away;0;7;4;40%;342;78%;14;1;0;6;5
+League 1;4;4_8;Nice;Home;2;16;6;63%;619;87%;7;2;0;5;5
+League 1;4;4_8;Strasbourg;Away;0;4;0;67%;355;80%;12;1;0;1;2
+League 1;4;4_9;Lyon;Home;1;19;8;30%;351;81%;9;2;0;0;5
+League 1;4;4_9;PSG;Away;3;22;8;70%;829;93%;5;2;0;1;2
+Serie A 2021/2022;32;32_1;Empoli;Home;0;15;4;58%;413;75%;11;2;0;2;5
+Serie A 2021/2022;32;32_1;Spezia;Away;0;11;5;42%;318;69%;18;2;0;0;4
+Serie A 2021/2022;32;32_2;Inter;Home;2;18;6;47%;397;75%;10;2;0;2;10
+Serie A 2021/2022;32;32_2;Verona;Away;0;9;3;53%;455;80%;7;0;0;1;2
+Serie A 2021/2022;32;32_3;Cagliari;Home;1;4;1;40%;327;69%;19;1;0;0;1
+Serie A 2021/2022;32;32_3;Juventus;Away;2;20;6;60%;487;81%;10;0;0;3;4
+Serie A 2021/2022;32;32_4;Genoa;Home;1;15;4;42%;387;78%;7;0;0;2;3
+Serie A 2021/2022;32;32_4;Lazio;Away;4;17;11;58%;538;82%;8;1;0;1;6
+Serie A 2021/2022;32;32_5;Napoli;Home;2;15;3;49%;492;84;10;0;0;5;3
+Serie A 2021/2022;32;32_5;Fiorentina;Away;3;11;4;51%;500;85%;17;3;0;1;2
+Serie A 2021/2022;32;32_6;Sassuolo;Home;2;14;7;51%;487;84%;18;2;0;2;8
+Serie A 2021/2022;32;32_6;Atalanta;Away;1;15;4;49%;465;85%;14;1;0;4;8
+Serie A 2021/2022;32;32_7;Venezia;Home;1;9;4;54%;352;76%;15;7;0;0;7
+Serie A 2021/2022;32;32_7;Udinese;Away;2;16;5;46%;297;74%;11;2;0;3;11
+Serie A 2021/2022;32;32_8;Roma;Home;2;17;7;67%;512;84%;16;5;0;1;9
+Serie A 2021/2022;32;32_8;Salernitana;Away;1;6;3;33%;261;73%;23;8;0;0;2
+Serie A 2021/2022;32;32_9;Torino;Home;0;14;3;43%;330;74%;18;2;0;4;6
+Serie A 2021/2022;32;32_9;Milan;Away;0;14;3;57%;429;78%;6;2;0;1;5
+Serie A 2021/2022;32;32_10;Bologna;Home;2;19;4;53%;498;82%;11;1;0;2;6
+Serie A 2021/2022;32;32_10;Sampdoria;Away;0;9;2;47%;459;82%;11;2;0;5;0
+Serie A 2021/2022;34;34_1;Torino;Home;2;15;6;56%;510;81%;9;1;0;1;5
+Serie A 2021/2022;34;34_1;Spezia;Away;2;7;2;44%;408;72%;13;2;0;1;6
+Serie A 2021/2022;34;34_2;Venezia;Home;2;8;2;39%;410;77%;12;0;0;2;0
+Serie A 2021/2022;34;34_2;Atalanta;Away;2;19;5;61%;616;82%;13;3;0;0;7
+Serie A 2021/2022;34;34_3;Inter;Home;2;11;8;44%;437;83%;11;2;0;1;4
+Serie A 2021/2022;34;34_3;Roma;Away;2;9;2;56%;557;86%;13;2;0;1;3
+Serie A 2021/2022;34;34_4;Verona;Home;2;12;1;58%;487;79%;15;1;0;4;4
+Serie A 2021/2022;34;34_4;Sampdoria;Away;2;4;3;42%;344;68%;15;3;0;0;5
+Serie A 2021/2022;34;34_5;Salernitana;Home;2;10;4;27%;216;64%;15;1;0;3;6
+Serie A 2021/2022;34;34_5;Fiorentina;Away;2;8;3;73%;575;85%;12;1;0;2;4
+Serie A 2021/2022;34;34_6;Bologna;Home;2;10;3;56%;431;80%;9;2;0;2;2
+Serie A 2021/2022;34;34_6;Udinese;Away;2;17;5;44%;345;80%;22;2;0;3;4
+Serie A 2021/2022;34;34_7;Empoli;Home;2;17;7;40%;342;76%;14;4;0;1;10
+Serie A 2021/2022;34;34_7;Napoli;Away;2;16;2;60%;518;81%;9;1;0;2;7
+Serie A 2021/2022;34;34_8;Genoa;Home;2;13;2;56%;384;57%;21;3;0;3;2
+Serie A 2021/2022;34;34_8;Cagliari;Away;2;11;1;44%;310;52%;18;2;0;1;3
+Serie A 2021/2022;34;34_9;Lazio;Home;2;7;2;46%;410;78%;13;3;0;0;2
+Serie A 2021/2022;34;34_9;Milan;Away;2;25;8;54%;452;79%;15;4;0;2;8
+Serie A 2021/2022;34;34_10;Sassuolo;Home;2;22;7;64%;666;90%;15;2;1;1;6
+Serie A 2021/2022;34;34_10;Juventus;Away;2;10;5;36%;372;83%;8;2;0;3;4
+Serie A 2021/2022;36;36_1;Inter;Home;4;37;10;65%;573;90%;10;1;0;2;14
+Serie A 2021/2022;36;36_1;Empoli;Away;2;4;2;35%;327;78%;9;0;0;1;2
+Serie A 2021/2022;36;36_2;Genoa;Home;2;18;6;46%;417;80%;13;2;0;3;9
+Serie A 2021/2022;36;36_2;Juventus;Away;1;12;4;54%;505;80%;15;3;0;3;2
+Serie A 2021/2022;36;36_3;Torino;Home;0;10;3;42%;340;80%;18;2;0;2;6
+Serie A 2021/2022;36;36_3;Napoli;Away;1;11;6;58%;467;83%;11;3;0;1;4
+Serie A 2021/2022;36;36_4;Sassuolo;Home;1;15;6;60%;529;88%;10;2;0;1;6
+Serie A 2021/2022;36;36_4;Udinese;Away;1;13;6;40%;360;82%;18;2;0;6;9
+Serie A 2021/2022;36;36_5;Lazio;Home;2;16;10;62%;741;89%;9;1;0;0;6
+Serie A 2021/2022;36;36_5;Sampdoria;Away;0;9;2;38%;458;81%;9;1;0;2;0
+Serie A 2021/2022;36;36_6;Spezia;Home;1;5;1;34%;294;70%;10;2;0;4;0
+Serie A 2021/2022;36;36_6;Atalanta;Away;3;17;6;66%;551;85%;12;3;0;3;3
+Serie A 2021/2022;36;36_7;Venezia;Home;4;18;9;39%;296;77%;10;2;0;2;4
+Serie A 2021/2022;36;36_7;Bologna;Away;3;23;10;61%;460;83%;13;4;0;0;8
+Serie A 2021/2022;36;36_8;Salernitana;Home;1;13;2;48%;351;77%;12;5;1;1;7
+Serie A 2021/2022;36;36_8;Cagliari;Away;1;9;3;52%;365;80%;17;2;1;1;6
+Serie A 2021/2022;36;36_9;Verona;Home;1;10;3;47%;353;78%;15;2;0;0;5
+Serie A 2021/2022;36;36_9;Milan;Away;3;18;8;53%;407;78%;7;1;0;2;8
+Serie A 2021/2022;36;36_10;Fiorentina;Home;2;12;7;55%;525;86%;16;3;0;1;5
+Serie A 2021/2022;36;36_10;Roma;Away;0;7;1;45%;441;82%;11;1;0;1;3
+Serie A 2021/2022;38;38_1;Torino;Home;0;13;2;59%;485;85%;10;2;0;4;5
+Serie A 2021/2022;38;38_1;Roma;Away;3;14;6;41%;345;79%;10;2;0;3;6
+Serie A 2021/2022;38;38_2;Genoa;Home;0;18;5;51%;384;73%;17;3;0;2;9
+Serie A 2021/2022;38;38_2;Bologna;Away;1;11;4;49%;373;72%;10;1;0;4;9
+Serie A 2021/2022;38;38_3;Fiorentina;Home;2;13;4;67%;665;90%;13;3;0;0;6
+Serie A 2021/2022;38;38_3;Juventus;Away;0;1;0;33%;351;82%;14;3;0;3;2
+Serie A 2021/2022;38;38_4;Atalanta;Home;0;40;11;63%;586;86%;6;1;0;2;15
+Serie A 2021/2022;38;38_4;Empoli;Away;1;7;3;37%;369;78%;7;1;0;2;2
+Serie A 2021/2022;38;38_5;Lazio;Home;3;19;7;55%;413;78%;9;2;0;1;6
+Serie A 2021/2022;38;38_5;Verona;Away;3;10;7;45%;340;74%;19;6;0;4;4
+Serie A 2021/2022;38;38_6;Spezia;Home;0;16;4;31%;296;86%;10;1;0;2;4
+Serie A 2021/2022;38;38_6;Napoli;Away;3;10;4;69%;679;90%;9;2;0;0;2
+Serie A 2021/2022;38;38_7;Inter;Home;3;28;12;59%;644;91%;6;1;0;1;8
+Serie A 2021/2022;38;38_7;Sampdoria;Away;0;8;3;41%;462;89%;12;2;0;2;2
+Serie A 2021/2022;38;38_8;Sassuolo;Home;0;15;3;54%;416;86%;8;2;0;0;3
+Serie A 2021/2022;38;38_8;Milan;Away;3;18;12;46%;356;83%;13;1;0;3;7
+Serie A 2021/2022;38;38_9;Venezia;Home;0;7;1;43%;379;74%;6;0;0;5;6
+Serie A 2021/2022;38;38_9;Cagliari;Away;0;31;7;57%;473;83%;19;3;0;3;11
+Serie A 2021/2022;38;38_10;Salernitana;Home;0;25;10;53%;480;87%;11;1;0;2;7
+Serie A 2021/2022;38;38_10;Udinese;Away;4;19;11;47%;445;82%;12;1;0;2;1
+J1 League;16;16_1;Shonan Bellmare;Away;2;11;5;44%;405;84%;11;4;0;1;7
+J1 League;16;16_1;Niigata;Home;2;14;7;56%;530;83%;8;0;0;2;5
+J1 League;16;16_2;FC Tokyo;Away;2;21;6;38%;317;70%;13;2;1;1;8
+J1 League;16;16_2;Yokohama FM;Home;3;16;7;62%;524;86%;12;0;0;2;2
+J1 League;16;16_3;Nagoya;Away;3;11;7;33%;295;69%;17;0;0;0;2
+J1 League;16;16_3;Cerezo Osaka;Home;1;13;3;67%;573;84%;8;0;0;1;5
+J1 League;16;16_4;Avispa Fukuoka;Away;1;16;3;47%;344;70%;7;1;0;0;7
+J1 League;16;16_4;Gamba Osaka;Home;2;9;5;53%;397;71%;16;2;0;1;6
+J1 League;16;16_5;Yokohama FC;Away;1;6;2;37%;340;74%;16;2;0;2;2
+J1 League;16;16_5;Sagan Tosu;Home;2;12;4;63%;584;82%;8;1;0;2;5
+J1 League;16;16_6;Kashiwa Reysol;Away;4;14;7;41%;389;74%;11;2;0;0;4
+J1 League;16;16_6;Consadole Sapporo;Home;5;24;12;59%;565;83%;9;1;0;6;4
+J1 League;16;16_7;Sanfrecce;Away;3;14;10;45%;296;65%;9;1;0;4;1
+J1 League;16;16_7;Kyoto Sanga;Home;1;15;4;55%;347;67%;16;0;0;3;9
+J1 League;16;16_8;Urawa Reds;Away;0;11;2;48%;446;83%;16;3;0;1;6
+J1 League;16;16_8;Kashima Antlers;Home;0;9;3;52%;469;82%;10;3;0;5;6
+J1 League;18;18_1;Consadole Sapporo;Home;1;17;1;67%;505;81%;17;1;0;2;10
+J1 League;18;18_1;Cerezo Osaka;Away;4;9;7;33%;255;69%;13;1;0;3;4
+J1 League;18;18_2;Kashiwa Reysol;Home;0;8;4;41%;435;79%;15;2;0;0;5
+J1 League;18;18_2;Niigata;Away;0;10;4;59%;629;88%;9;2;0;2;2
+J1 League;18;18_3;Shonan Bellmare;Home;0;22;10;54%;473;82%;11;0;0;6;9
+J1 League;18;18_3;Sagan Tosu;Away;6;13;10;46%;416;80%;13;2;0;1;5
+J1 League;18;18_4;Sanfrecce;Home;0;22;1;44%;361;70%;11;1;0;2;5
+J1 League;18;18_4;Yokohama FM;Away;1;12;4;56%;482;81%;8;0;0;3;4
+J1 League;18;18_5;Kyoto Sanga;Home;2;16;2;48%;340;67%;16;1;0;2;4
+J1 League;18;18_5;Yokohama FC;Away;1;12;5;52%;359;68%;12;2;1;2;7
+J1 League;18;18_6;FC Tokyo;Home;2;13;4;48%;387;73%;17;4;0;1;5
+J1 League;18;18_6;Nagoya;Away;0;9;3;52%;418;76%;17;4;0;4;4
+J1 League;18;18_7;Gamba Osaka;Home;2;12;4;54%;431;75%;12;1;0;0;6
+J1 League;18;18_7;Kashima Antlers;Away;1;8;2;46%;373;74%;10;2;0;1;3
+J1 League;18;18_8;Urawa Reds;Home;1;11;5;45%;440;83%;11;1;0;1;5
+J1 League;18;18_8;Kawasaki;Away;1;12;1;55%;539;83%;10;1;1;2;4
+J1 League;18;18_9;Avispa Fukuoka;Home;0;16;5;51%;364;72%;13;3;0;1;10
+J1 League;18;18_9;Vissel Kobe;Away;3;7;4;49%;374;71%;10;0;0;2;3
+J1 League;20;20_1;Niigata;Home;0;19;6;58%;549;83%;13;1;0;2;3
+J1 League;20;20_1;Vissel Kobe;Away;1;7;2;42%;391;81%;8;0;0;2;3
+J1 League;20;20_2;Nagoya;Home;2;16;7;41%;351;73%;14;3;0;5;9
+J1 League;20;20_2;Yokohama FM;Away;2;16;5;59%;522;83%;12;1;0;0;2
+J1 League;20;20_3;Sanfrecce;Home;1;18;4;49%;421;79%;17;3;0;2;6
+J1 League;20;20_3;Kashima Antlers;Away;1;13;6;51%;439;80%;8;1;0;2;5
+J1 League;20;20_4;Avispa Fukuoka;Home;2;5;3;39%;298;72%;17;2;0;2;1
+J1 League;20;20_4;Consadole Sapporo;Away;1;16;3;61%;459;77%;14;0;0;1;9
+J1 League;20;20_5;Urawa Reds;Home;0;11;3;60%;576;82%;10;1;0;2;5
+J1 League;20;20_5;FC Tokyo;Away;0;8;2;40%;387;75%;9;1;0;3;4
+J1 League;20;20_6;Kashiwa Reysol;Home;1;8;2;38%;256;60%;7;1;1;3;3
+J1 League;20;20_6;Shonan Bellmare;Away;1;9;6;62%;410;73%;10;1;0;5;9
+J1 League;20;20_7;Gamba Osaka;Home;1;10;2;55%;427;79%;8;1;0;2;5
+J1 League;20;20_7;Kyoto Sanga;Away;0;10;0;45%;338;72%;10;1;0;0;6
+J1 League;20;20_8;Kawasaki;Home;3;16;6;59%;582;85%;21;4;0;0;2
+J1 League;20;20_8;Yokohama FC;Away;0;12;2;41%;401;80%;14;1;0;1;6
+J1 League;20;20_9;Sagan Tosu;Home;2;13;5;56%;391;63%;7;2;0;0;7
+J1 League;20;20_9;Cerezo Osaka;Away;1;13;7;44%;309;57%;8;0;0;5;11
+J1 League;22;22_1;Nagoya;Home;1;9;5;27%;276;74%;8;1;0;2;2
+J1 League;22;22_1;Albirex Niigata;Away;0;10;2;73%;721;89%;12;3;0;3;5
+J1 League;22;22_2;Shonan Bellmare;Home;1;6;3;44%;336;66%;18;1;0;0;3
+J1 League;22;22_2;Sanfrecce;Away;0;17;5;56%;399;73%;16;0;0;1;7
+J1 League;22;22_3;Kashima;Home;3;19;4;40%;315;74%;8;2;0;0;9
+J1 League;22;22_3;Consadole Sapporo;Away;0;16;3;60%;475;83%;8;1;0;0;9
+J1 League;22;22_4;Yokohama FC;Home;2;7;3;26%;212;58%;10;0;0;0;2
+J1 League;22;22_4;Vissel Kobe;Away;0;14;2;74%;593;85%;6;1;0;2;8
+J1 League;22;22_5;Kawasaki Frontale;Home;3;19;6;63%;565;84%;7;1;0;5;9
+J1 League;22;22_5;Gamba Osaka;Away;4;9;6;37%;342;76%;12;3;0;1;5
+J1 League;22;22_6;Sagan Tosu;Home;0;13;4;69%;531;87%;14;1;0;1;8
+J1 League;22;22_6;Avispa Fukuoka;Away;1;7;2;31%;252;69%;4;2;0;1;1
+J1 League;22;22_7;Kyoto Sanga;Home;0;10;2;58%;352;63%;8;2;0;2;2
+J1 League;22;22_7;Kashiwa Reysol;Away;1;10;1;42%;252;59%;9;2;0;3;9
+J1 League;22;22_8;Urawa Reds;Home;0;18;6;43%;372;77%;16;2;0;0;4
+J1 League;22;22_8;Marinos;Away;0;8;3;57%;479;82%;11;0;0;2;7
+J1 League;22;22_9;Cerezo Osaka;Home;0;17;7;64%;496;84%;11;1;0;3;5
+J1 League;22;22_9;Tokyo;Away;1;9;5;36%;300;68%;10;3;0;3;2
+Argentina Primera Division;20;20.1;Barracas Central;Home ;0;7;2;49%;285;63%;12;1;0;0;9
+Argentina Primera Division;20;20.1;Rosario Central;Away;0;7;2;51%;309;65%;8;4;0;2;2
+Argentina Primera Division;20;20.2;Independiente;Home;2;15;4;57%;412;74%;12;0;0;0;10
+Argentina Primera Division;20;20.2;Sarmiento;Away;0;3;0;43%;309;64%;15;2;1;0;4
+Argentina Primera Division;20;20.3;Platense;Home;1;9;2;32%;235;57%;12;1;0;1;2
+Argentina Primera Division;20;20.3;Tigre;Away;0;11;2;68%;473;76%;10;0;0;2;6
+Argentina Primera Division;20;20.4;Boca Junior;Home;1;13;5;71%;665;87%;10;2;0;1;6
+Argentina Primera Division;20;20.4;Lanus;Away;1;9;4;29%;264;71%;15;5;0;2;4
+Argentina Primera Division;20;20.5;Talleres Cordoba;Home;1;10;4;54%;490;81%;8;0;0;1;8
+Argentina Primera Division;20;20.5;Arsenal Sarandi;Away;0;11;2;46%;410;79%;16;3;0;1;6
+Argentina Primera Division;20;20.6;Newell's;Home;1;11;3;64%;550;86%;6;1;0;1;7
+Argentina Primera Division;20;20.6;Union;Away;1;5;2;36%;320;75%;3;3;0;0;2
+Argentina Primera Division;20;20.7;San Lorenzo;Home;0;14;5;61%;512;77%;9;1;0;1;5
+Argentina Primera Division;20;20.7;Central Cordoba;Away;0;4;0;39%;338;65%;17;2;1;1;7
+Argentina Primera Division;20;20.8;Banfield;Home;1;9;2;34%;233;64%;16;1;1;3;7
+Argentina Primera Division;20;20.8;River Plate;Away;4;10;7;66%;498;82%;12;1;0;1;4
+Argentina Primera Division;20;20.9;Instituto ACC;Home;1;16;2;35%;288;64%;11;3;0;1;4
+Argentina Primera Division;20;20.9;Racing Club;Away;1;15;7;65%;540;80%;11;2;0;0;5
+Argentina Primera Division;20;20.1;Velez Sarsfield;Home;0;9;3;39%;343;67%;12;3;0;0;3
+Argentina Primera Division;20;20.1;Argentinos Juniors;Away;1;15;3;61%;551;76%;17;2;0;1;3
+Argentina Primera Division;20;20.11;Colon;Home;1;10;2;40%;329;73%;11;3;0;4;3
+Argentina Primera Division;20;20.11;Estudiantes;Away;0;15;4;60%;482;76%;3;2;0;1;6
+Argentina Primera Division;20;20.12;Defense y Justicia;Home;2;18;9;48%;430;82%;9;2;0;3;6
+Argentina Primera Division;20;20.12;Belgrano;Away;0;16;7;52%;433;81%;6;0;0;2;5
+Argentina Primera Division;20;20.13;Gimnasia;Home;1;12;4;51%;348;69%;9;3;0;2;1
+Argentina Primera Division;20;20.13;Huracan;Away;0;11;3;49%;326;66%;17;5;0;2;4
+Argentina Primera Division;20;20.14;Atletico Tucuman;Home;2;12;5;42%;324;69%;9;1;0;4;4
+Argentina Primera Division;20;20.14;Godoy Cruz;Away;1;16;2;58%;433;78%;11;1;0;3;5
+Argentina Primera Division;22;22.1;Platense;Home ;0;8;0;52%;391;73%;12;0;0;2;5
+Argentina Primera Division;22;22.1;Lanus;Away;1;7;4;48%;384;71%;8;0;0;5;4
+Argentina Primera Division;22;22.2;Atletico Tucuman;Home;1;10;3;43%;322;72%;17;1;0;1;3
+Argentina Primera Division;22;22.2;Union;Away;0;13;2;57%;422;77%;9;3;0;2;6
+Argentina Primera Division;22;22.3;Velez Sarsfield;Home;1;6;1;70%;486;84%;11;0;0;5;3
+Argentina Primera Division;22;22.3;Arsenal Sarandi;Away;0;8;4;30%;209;60%;11;3;0;1;5
+Argentina Primera Division;22;22.4;Barracas Central;Home;2;6;5;33%;248;50%;16;3;0;2;5
+Argentina Primera Division;22;22.4;River Plate;Away;1;13;3;67%;482;73%;10;2;0;1;4
+Argentina Primera Division;22;22.5;San Lorenzo;Home;1;12;3;38%;279;72%;16;2;0;0;5
+Argentina Primera Division;22;22.5;Rosario Central;Away;0;10;4;62%;459;81%;10;2;0;2;1
+Argentina Primera Division;22;22.6;Estudiantes;Home;1;27;7;62%;511;80%;5;2;0;1;10
+Argentina Primera Division;22;22.6;Central Cordoba;Away;1;16;6;38%;328;66%;10;2;0;0;6
+Argentina Primera Division;22;22.7;Talleres Cordoba;Home;1;17;6;54%;361;73%;13;1;0;0;5
+Argentina Primera Division;22;22.7;Godoy Cruz;Away;1;19;5;46%;316;72%;13;3;0;4;6
+Argentina Primera Division;22;22.8;Independiente;Home;1;6;2;43%;318;64%;15;3;0;2;2
+Argentina Primera Division;22;22.8;Huracan;Away;0;7;1;57%;415;70%;14;3;0;2;1
+Argentina Primera Division;22;22.9;Colon;Home;0;5;2;41%;362;79%;9;2;1;4;3
+Argentina Primera Division;22;22.9;Racing Club;Away;4;19;9;59%;520;80%;9;2;0;0;5
+Argentina Primera Division;22;22,10;Instituto ACC;Home;1;11;5;37%;292;64%;15;0;0;1;3
+Argentina Primera Division;22;22,10;Belgrano;Away;0;8;6;63%;483;76%;6;2;0;0;3
+Argentina Primera Division;22;22.11;Banfields;Home;1;15;5;28%;235;54%;13;3;0;0;4
+Argentina Primera Division;22;22.11;Argentinos Juniors;Away;1;9;2;72%;605;81%;9;2;0;0;4
+Argentina Primera Division;22;22.12;Defensa y Justicia;Home;1;13;5;42%;319;70%;4;2;0;2;1
+Argentina Primera Division;22;22.12;Tigre;Away;0;18;8;58%;416;78%;11;2;0;1;10
+Argentina Primera Division;22;22.13;Boca Junoirs;Home;2;13;5;79%;713;86%;6;2;0;0;5
+Argentina Primera Division;22;22.13;Sarmiento;Away;0;8;2;21%;192;55%;13;3;0;0;4
+Argentina Primera Division;22;22.14;Newell's;Home;2;17;6;65%;471;78%;15;3;0;2;5
+Argentina Primera Division;22;22.14;Gimnasia;Away;2;12;5;35%;256;63%;13;4;0;1;6
+Argentina Primera Division;24;24.1;Estudiantes La Plata;Home ;0;9;2;47%;378;70%;8;2;0;4;3
+Argentina Primera Division;24;24.1;Racing Club;Away;0;6;1;53%;434;74%;16;4;0;2;3
+Argentina Primera Division;24;24.2;San Lorenzo;Home;0;9;5;31%;269;70%;17;2;1;1;9
+Argentina Primera Division;24;24.2;River Plate;Away;0;14;3;69%;614;86%;12;3;0;1;7
+Argentina Primera Division;24;24.3;Platenese;Home;1;8;3;58%;418;70%;12;1;0;1;7
+Argentina Primera Division;24;24.3;CA Sarmiento;Away;0;7;1;42%;308;63%;7;1;0;5;1
+Argentina Primera Division;24;24.4;Instituto;Home;0;12;5;62%;497;74%;8;3;0;2;9
+Argentina Primera Division;24;24.4;Tigre;Away;1;4;2;38%;319;61%;11;1;0;0;1
+Argentina Primera Division;24;24.5;Velez Sarsfield;Home;1;12;5;51%;315;71%;8;2;0;2;8
+Argentina Primera Division;24;24.5;Godoy Cruz;Away;1;4;2;49%;335;71%;17;6;1;3;1
+Argentina Primera Division;24;24.6;Defensa y Justicia;Home;2;20;3;63%;496;80%;13;3;0;2;3
+Argentina Primera Division;24;24.6;Lanús;Away;2;21;8;37%;305;65%;15;3;0;5;5
+Argentina Primera Division;24;24.7;Banfield;Home;0;11;1;49%;337;67%;8;2;0;1;3
+Argentina Primera Division;24;24.7;Arsenal;Away;0;8;4;51%;357;66%;15;3;0;1;3
+Argentina Primera Division;24;24.8;Barracas Central;Home;0;11;1;44%;386;66%;9;0;0;2;2
+Argentina Primera Division;24;24.8;Argentinos;Away;0;5;2;56%;478;72%;16;1;0;3;6
+Argentina Primera Division;24;24.9;Atlético Colón;Home;0;12;3;59%;494;81%;12;1;0;3;5
+Argentina Primera Division;24;24.9;Belgrano;Away;0;10;3;41%;336;69%;17;2;0;2;5
+Argentina Primera Division;24;24.1;Boca Juniors;Home;1;12;8;61%;507;84%;9;4;0;0;6
+Argentina Primera Division;24;24.1;Huracan;Away;0;7;1;39%;325;76%;14;1;1;3;2
+Argentina Primera Division;24;24.11;Talleres Córdoba;Home;0;19;5;59%;449;81%;13;3;0;4;4
+Argentina Primera Division;24;24.11;Unión Santa Fe;Away;0;7;3;41%;311;71%;18;6;0;0;5
+Argentina Primera Division;24;24.12;Rosario Central;Home;2;13;5;36%;272;66%;14;6;0;2;4
+Argentina Primera Division;24;24.12;Central Córdoba SdE;Away;0;13;3;64%;462;76%;9;4;0;3;7
+Argentina Primera Division;24;24.13;Independiente;Home;0;14;4;54%;371;74%;15;1;0;2;3
+Argentina Primera Division;24;24.13;Newell's Old Boys;Away;2;9;5;46%;330;67%;18;2;0;0;6
+Argentina Primera Division;24;24.14;Atletico Tucuman;Home;2;13;6;39%;290;66%;11;3;0;1;7
+Argentina Primera Division;24;24.14;Gimnasia;Away;0;13;2;61%;431;76%;8;3;0;1;7
+Argentina Primera Division;26;26.1;San Lorenzo;Home ;0;13;2;46%;424;84%;15;1;1;2;2
+Argentina Primera Division;26;26.1;Argentinos Juniors;Away;2;9;7;54%;492;86%;15;4;0;1;4
+Argentina Primera Division;26;26.2;Estudiantes;Home;4;19;10;62%;526;85%;16;1;0;0;6
+Argentina Primera Division;26;26.2;Belgrano;Away;0;4;0;36%;325;76%;11;1;1;1;1
+Argentina Primera Division;26;26.3;Platense;Home;0;8;3;53%;385;65%;7;1;0;0;4
+Argentina Primera Division;26;26.3;Huracan;Away;1;11;3;47%;350;61%;12;1;0;0;2
+Argentina Primera Division;26;26.4;Atletico Tucuman;Home;1;5;2;39%;261;59%;13;6;1;1;2
+Argentina Primera Division;26;26.4;Independiente;Away;0;16;5;73%;394;73%;9;5;0;1;6
+Argentina Primera Division;26;26.5;Defensa y Justica;Home;3;21;12;64%;586;84%;5;0;0;2;10
+Argentina Primera Division;26;26.5;Samiento;Away;0;3;0;36%;320;69%;11;1;1;3;2
+Argentina Primera Division;26;26.6;Rosario Central;Home;3;16;5;35%;257;71%;13;5;0;0;4
+Argentina Primera Division;26;26.6;River Plate;Away;3;17;8;65%;586;79%;10;3;0;2;9
+Argentina Primera Division;26;26.7;Velez Sarsfield;Home;0;5;0;51%;383;72%;14;2;0;0;3
+Argentina Primera Division;26;26.7;Union;Away;0;7;1;49%;375;69%;16;2;0;0;6
+Argentina Primera Division;26;26.8;Tallares Cordoba;Home;2;17;4;61%;522;82%;14;3;0;1;6
+Argentina Primera Division;26;26.8;Gimnasia;Away;2;22;7;39%;322;74%;8;0;0;1;7
+Argentina Primera Division;26;26.9;Banfield;Home;2;10;5;35%;208;55%;15;1;0;3;5
+Argentina Primera Division;26;26.9;Godoy Cruz;Away;0;10;2;65%;385;75%;21;5;0;0;5
+Argentina Primera Division;26;26.1;Racing Club;Home;3;14;6;63%;491;78%;16;0;0;1;6
+Argentina Primera Division;26;26.1;Central Cordoba;Away;1;15;8;37%;284;62%;16;3;0;4;4
+Argentina Primera Division;26;26.11;Boca Juniors;Home;2;7;2;44%;353;73%;19;5;0;1;2
+Argentina Primera Division;26;26.11;Newell's;Away;1;6;4;56%;465;79%;14;3;0;1;1
+Argentina Primera Division;26;26.12;Barracas Central;Home;0;12;5;59%;511;75%;5;0;0;1;5
+Argentina Primera Division;26;26.12;Arsenal Sarandi;Away;0;14;7;41%;365;64%;16;2;0;2;4
+Argentina Primera Division;26;26.13;Colon;Home;1;12;5;53%;437;75%;8;0;0;3;3
+Argentina Primera Division;26;26.13;Tigre;Away;3;17;7;47%;403;73%;8;1;0;1;5
+Argentina Primera Division;26;26.14;Instituto ACC;Home;2;9;5;41%;304;69%;10;2;0;1;4
+Argentina Primera Division;26;26.14;Lanus;Away;1;11;4;59%;464;77%;12;2;1;0;3
+Liga super;30;30_1;FC Zurich;Host;2;7;4;41%;273;57%;15;2;0;1;5
+Liga super;30;30_1;Young Boys;Guest;1;15;2;59%;383;74%;17;3;0;0;10
+Liga super;30;30_2;Servette;Host;0;16;5;59%;438;81%;9;4;0;3;7
+Liga super;30;30_2;Grasshoppers;Guest;1;9;2;41%;320;73%;13;4;0;1;4
+Liga super;30;30_3;Luzern;Host;3;21;9;55%;391;68%;8;1;0;4;5
+Liga super;30;30_3;St. Gallen;Guest;2;15;4;45%;334;69%;14;3;0;0;5
+Liga super;30;30_4;Lausanne;Host;4;14;8;47%;466;85%;8;3;0;2;2
+Liga super;30;30_4;Lugano;Guest;1;10;3;53%;506;81%;8;1;0;2;7
+Liga super;30;30_5;Sion;Host;0;5;0;42%;417;77%;10;0;0;4;3
+Liga super;30;30_5;Basel;Guest;0;13;5;58%;549;87%;12;3;0;2;5
+Liga super;32;32_1;Lugano;host;1;12;6;53%;450;80%;12;2;0;4;2
+Liga super;32;32_1;Grasshoppers;guest;1;13;5;47%;395;77%;14;0;0;4;6
+Liga super;32;32_2;Servette;host;0;11;2;52%;422;71%;11;3;0;4;1
+Liga super;32;32_2;St.Gallen;guest;2;14;7;48%;398;71%;9;1;0;2;2
+Liga super;32;32_3;Sion;host;1;15;5;40%;288;63%;18;4;0;3;4
+Liga super;32;32_3;Young Boys;guest;2;15;4;60%;422;80%;10;2;0;3;5
+Liga super;32;32_4;Lucerne;host;3;19;8;46%;376;80%;8;2;0;1;6
+Liga super;32;32_4;Lausanne;guest;0;11;3;54%;437;86%;15;2;1;0;7
+Liga super;32;32_5;Basel;host;0;15;4;63%;382;81%;17;4;0;0;5
+Liga super;32;32_5;Zurich;guest;2;12;2;37%;218;62%;20;4;0;0;5
+Liga super;34;34_1;Young Boys;Host;4;13;6;42%;300;11%;3;0;7;5;10
+Liga super;34;34_1;St. Gallen;Guest;1;10;4;58%;409;72%;8;2;0;3;2
+Liga super;34;34_2;Sion;Host;1;11;5;53%;447;84%;9;2;0;1;5
+Liga super;34;34_2;Lucerne;Guest;3;15;7;47%;393;78%;9;2;0;0;6
+Liga super;34;34_3;Servette;Host;2;22;5;60%;503;83%;10;1;0;1;10
+Liga super;34;34_3;Lugano;Guest;2;9;3;40%;361;75%;15;3;0;0;1
+Liga super;34;34_4;Zurich;Host;2;13;6;51%;433;82%;15;1;0;2;6
+Liga super;34;34_4;Lausanne;Guest;2;12;4;49%;430;85%;13;1;0;0;3
+Liga super;34;34_5;Basel;Host;1;16;3;72%;582;85%;7;1;0;4;6
+Liga super;34;34_5;Grasshoppers;Guest;1;8;4;28%;233;63%;15;3;1;1;2
+Liga super;36;36_1;St. Gallen;Host;4;24;9;57%;445;81%;16;1;0;0;8
+Liga super;36;36_1;Lausanne;Guest;0;10;4;43%;335;78%;10;3;0;0;7
+Liga super;36;36_2;Young Boys;Host;3;13;5;44%;395;79%;13;3;0;1;4
+Liga super;36;36_2;Grasshoppers;Guest;0;21;3;56%;499;81%;9;2;0;1;4
+Liga super;36;36_3;Sion;Host;3;10;7;48%;368;80%;8;3;0;2;1
+Liga super;36;36_3;Servette;Guest;3;15;6;52%;371;80%;10;3;0;0;9
+Liga super;36;36_4;Basel;Host;2;7;6;51%;443;85%;12;2;1;1;1
+Liga super;36;36_4;Lugano;Guest;1;8;3;49%;425;82%;11;1;1;1;5
+Liga super;36;36_5;Zurich;Host;2;18;3;51%;344;79%;10;0;0;0;9
+Liga super;36;36_5;Lucerne;Guest;3;15;5;49%;347;74%;12;1;0;1;6
+EPL;NA;NA;Luton Town;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;West Ham ;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Sheffield United;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;Everton;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;Man City;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;Fulham;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Chelsea;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottingham Forest;NA;1;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Burnley;NA;2;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;Tottenham;NA;5;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;Brentford;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;Bournemouth;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;Brighton;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;Newcastle;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Crystal Palace;NA;3;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;Wolves;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;Liverpool;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;Aston Villa;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;Arsenal;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Man United;NA;1;10;2;45%;462;84%;7;3;0;1;3
+Serie A ;NA;NA;Roma;NA;1;13;2;42%;399;84%;14;2;0;1;3
+Serie A ;NA;NA;Milan;NA;2;9;4;58%;544;87%;15;2;1;1;5
+Serie A ;NA;NA;Udinese;NA;0;12;6;46%;345;76%;14;2;0;0;3
+Serie A ;NA;NA;Frosinone;NA;0;12;2;54%;396;79%;9;2;0;2;5
+Serie A ;NA;NA;Bologna;NA;2;16;7;72%;724;88%;9;1;0;1;5
+Serie A ;NA;NA;Cagliari;NA;1;7;1;28%;271;78%;13;2;0;1;2
+Serie A ;NA;NA;Napoli;NA;1;22;4;62%;598;86%;8;0;0;4;7
+Serie A ;NA;NA;Lazio;NA;2;6;2;38%;387;81%;9;2;0;3;2
+Serie A ;NA;NA;Atalanta;NA;3;18;8;41%;427;85%;11;0;0;4;7
+Serie A ;NA;NA;Monza;NA;0;8;2;59%;627;85%;9;3;0;1;3
+Serie A ;NA;NA;Torino;NA;1;10;3;63%;496;85%;13;2;0;5;4
+Serie A ;NA;NA;Genoa;NA;0;7;2;37%;306;69%;7;5;0;2;0
+Serie A ;NA;NA;Inter;NA;4;21;11;39%;348;81%;13;1;0;0;1
+Serie A ;NA;NA;Fiorentina;NA;0;6;2;61%;527;86%;12;1;0;1;1
+EPL;NA;NA;Luton;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;West Ham;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Sheffield United;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;Everton;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;Man City;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;Fulham;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Chelsea;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottm Forest;NA;1;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Burnley;NA;2;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;Tottenham;NA;5;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;Brentford;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;Bournemouth;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;Brighton;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;Newcastle;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Crystal Palace;NA;3;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;Wolves;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;Liverpool;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;Aston Villa;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;Arsenal;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Man United;NA;1;10;2;45%;462;84%;7;3;0;1;3
+EPL;NA;NA;Luton;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;Westham;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Sheff Utd;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;Everton;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;Man City;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;FulHam;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Chelsa;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottingham Forest;NA;1;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Burbley;NA;2;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;Tottenham;NA;5;21;11;54%;583;86%;9;3;0;1;4
+EPL;NA;NA;Brentford;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;Bournemouth;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;Brighton;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;Newcastle;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Crystal Place;NA;3;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;Wolves;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;LIverpool;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;Aston Villa;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;Arsenal;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Man Utd;NA;1;10;2;45%;462;84%;7;3;0;1;3
+EPL;NA;NA;Luton;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;Westham;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Sheff Utd;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;Everton;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;Man City;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;FulHam;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Chelsa;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottingham Forest;NA;1;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Burbley;NA;2;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;Tottenham;NA;5;21;11;54%;583;86%;9;3;0;1;4
+EPL;NA;NA;Brentford;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;Bournemouth;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;Brighton;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;Newcastle;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Crystal Place;NA;3;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;Wolves;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;LIverpool;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;Aston Villa;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;Arsenal;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Man Utd;NA;1;10;2;45%;462;84%;7;3;0;1;3
+Serie A ;NA;NA;udinese;NA;0;12;6;46%;354;76%;14;2;0;0;3
+Serie A ;NA;NA;frosinone;NA;0;12;2;54%;396;79%;9;2;0;2;5
+Serie A ;NA;NA;Bologna;NA;2;16;7;72%;725;88%;9;1;0;1;5
+Serie A ;NA;NA;Cagliari;NA;1;7;1;28%;272;77%;13;2;0;1;2
+Serie A ;NA;NA;Napoli;NA;1;22;4;62%;598;86%;8;0;0;4;7
+Serie A ;NA;NA;Lazio;NA;2;6;2;38%;387;81%;9;2;0;3;2
+Serie A ;NA;NA;Atalanta;NA;3;18;8;41%;427;85%;11;0;0;4;7
+Serie A ;NA;NA;Monza;NA;0;8;2;59%;627;85%;9;3;0;1;3
+Serie A ;NA;NA;Torino;NA;1;10;3;63%;497;85%;13;2;0;5;4
+Serie A ;NA;NA;Genoa;NA;0;7;2;37%;307;69%;7;5;0;2;0
+Serie A ;NA;NA;Inter;NA;4;21;11;39%;348;81%;13;1;0;0;1
+Serie A ;NA;NA;Fiorentina;NA;0;6;2;61%;527;86%;12;1;0;1;1
+Serie A ;NA;NA;Empoli;NA;0;7;0;49%;448;87%;14;3;0;2;3
+Serie A ;NA;NA;Juventus;NA;2;18;5;51%;469;84%;13;3;0;1;7
+Serie A ;NA;NA;Lecce;NA;2;20;6;45%;328;75%;17;3;0;0;6
+Serie A ;NA;NA;Salernitana;NA;0;11;4;55%;396;80%;15;3;0;1;5
+EPL;NA;NA;Luton Town;NA;NA;16;1;38%;366;72%;8;1;0;0;9
+EPL;;NA;West Ham;NA;NA;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Sheff Utd;NA;NA;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;Everton;NA;NA;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;Man City;NA;NA;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;Fulham;NA;NA;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Chealsea;NA;NA;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottingham Forest;NA;NA;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Burnley;NA;NA;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;Tottenham;NA;NA;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;Brentford;NA;NA;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;Bournemouth;NA;NA;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;Brighton;NA;NA;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;New Castle;NA;NA;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Crystal Palace;NA;NA;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;Wolves;NA;NA;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;Liverpool;NA;NA;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;Aston Villa;NA;NA;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;Arsenal;NA;NA;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Man Utd;NA;NA;10;2;45%;462;84%;7;3;0;1;3
+EPL;NA;NA;Luton ;NA;1;16;1;38.80%;366;NA;8;1;NA;0;9
+EPL;NA;NA;West Ham;NA;2;9;3;61.20%;609;NA;13;1;NA;6;6
+EPL;NA;NA;Sheffield Utd;NA;2;13;8;45.40%;384;NA;11;1;NA;1;4
+EPL;NA;NA;Everton ;NA;2;16;6;54.6;459;NA;13;2;NA;2;6
+EPL;NA;NA;Brentford;NA;2;21;7;61.1;484;NA;6;1;NA;1;5
+EPL;NA;NA;Bournemouth;NA;2;12;5;38.9;310;NA;13;2;NA;1;2
+EPL;NA;NA;Burnley ;NA;2;16;4;46.1;467;NA;15;4;NA;2;7
+EPL;NA;NA;Spurs;NA;5;21;11;53.9;563;NA;9;3;NA;1;4
+EPL;NA;NA;Chelsea;NA;0;21;2;76.1;713;NA;10;3;NA;2;7
+EPL;NA;NA;Nott'm Forest;NA;1;7;3;23.9;230;NA;9;4;NA;3;0
+EPL;NA;NA;Man City;NA;5;7;5;67.9;733;NA;12;2;NA;1;4
+EPL;NA;NA;Fulham;NA;1;6;4;32.1;336;NA;12;4;NA;1;5
+EPL;NA;NA;Brighton;NA;3;15;6;55.8;565;NA;14;4;NA;5;5
+EPL;NA;NA;New Castle;NA;1;9;2;44.2;440;NA;17;4;NA;0;3
+EPL;NA;NA;Crystal Palace;NA;3;16;11;42.9;393;NA;12;1;NA;1;4
+EPL;NA;NA;Wolves;NA;2;12;4;57.1;519;NA;12;3;NA;2;2
+EPL;NA;NA;Liverpool ;NA;3;17;4;63.7;694;NA;12;0;NA;6;7
+EPL;NA;NA;Aston Villa;NA;0;9;3;36.3;388;NA;7;1;NA;1;3
+EPL;NA;NA;Arsenal;NA;3;17;5;54.8;532;NA;8;2;NA;2;12
+EPL;NA;NA;Man Utd;NA;1;10;2;45.2;462;NA;7;3;NA;1;3
+Serie A ;NA;NA;Sassuolo;NA;3;16;7;46%;375;75%;8;1;0;1;10
+Serie A ;NA;NA;Verona;NA;1;11;3;54%;445;80%;13;3;0;4;1
+Serie A ;NA;NA;Udinese;NA;0;12;6;46%;349;75%;14;2;0;0;3
+Serie A ;NA;NA;Frosinone;NA;0;12;2;54%;395;78%;9;2;0;2;5
+Serie A ;NA;NA;Roma;NA;1;13;2;42%;399;84%;14;2;0;1;3
+Serie A ;NA;NA;Milan;NA;2;9;4;58%;544;87%;15;2;1;1;5
+Serie A ;NA;NA;Bologna;NA;2;16;7;72%;724;88%;9;1;0;1;5
+Serie A ;NA;NA;Cagliari;NA;1;7;1;28%;271;78%;13;2;0;1;2
+Serie A ;NA;NA;Napoli;NA;1;22;4;62%;598;86%;8;0;0;4;7
+Serie A ;NA;NA;Lazio;NA;2;6;2;38%;387;81%;9;2;0;3;2
+Serie A ;NA;NA;Atalanta;NA;3;18;8;41%;427;85%;11;0;0;4;7
+Serie A ;NA;NA;Monza;NA;0;8;2;59%;627;85%;9;3;0;1;3
+Serie A ;NA;NA;Torino;NA;1;10;3;43%;497;85%;13;2;0;5;4
+Serie A ;NA;NA;Genoa;NA;0;7;2;37%;307;69%;7;5;0;2;0
+Serie A ;NA;NA;Inter;NA;4;21;11;39%;348;81%;13;1;0;0;1
+Serie A ;NA;NA;Fiorentina;NA;0;6;2;61%;527;86%;12;1;0;1;1
+Serie A ;NA;NA;Empoli;NA;0;7;0;49%;449;87%;14;3;0;2;3
+Serie A ;NA;NA;Juventus;NA;2;18;5;51%;469;84%;13;3;0;1;7
+Serie A ;NA;NA;Lecce;NA;2;20;6;45%;328;75%;17;3;0;0;6
+Serie A ;NA;NA;Salernitana;NA;0;11;4;55%;396;80%;15;3;0;1;5
+EPL;NA;NA;LUTON;NA;1;10;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;WESTHAM UNITED;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;SHEFFIELD UNITED;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;EVERTON;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;MANCHESTER CITY;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;FULHAM;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;CHEALSEA;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;NOTTINGHAM FOREST;NA;1;7;3;23%;220;62%;9;4;0;3;0
+EPL;NA;NA;BURNLEY;NA;2;16;4;46%;457;80%;15;4;0;2;7
+EPL;NA;NA;TOTTENHAM HOTSPUR;NA;5;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;BRENTFORD;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;BOURNEMOUTH;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;BRIGHTON;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;NEWCASTLE;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;CRYSTAL PALACE;NA;3;16;11;42%;392;79%;12;1;0;1;4
+EPL;NA;NA;WOLFES;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;LIVERPOOL;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;ASTON VILLA;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;MANCHESTER UNITED;NA;1;10;2;45%;456;84%;7;3;0;1;3
+EPL;NA;NA;LUTON;NA;1;10;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;WESTHAM UNITED;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;SHEFFIELD UNITED;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;EVERTON;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;MANCHESTER CITY;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;FULHAM;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;CHEALSEA;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;NOTTINGHAM FOREST;NA;1;7;3;23%;220;62%;9;4;0;3;0
+EPL;NA;NA;BURNLEY;NA;2;16;4;46%;457;80%;15;4;0;2;7
+EPL;NA;NA;TOTTENHAM HOTSPUR;NA;5;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;BRENTFORD;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;BOURNEMOUTH;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;BRIGHTON;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;NEWCASTLE;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;CRYSTAL PALACE;NA;3;16;11;42%;392;79%;12;1;0;1;4
+EPL;NA;NA;WOLFES;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;LIVERPOOL;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;ASTON VILLA;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;MANCHESTER UNITED;NA;1;10;2;45%;456;84%;7;3;0;1;3
+EPL;NA;NA;Manchester United;NA;1;15;3;51%;465;82%;15;2;0;1;8
+EPL;NA;NA;Wolves;NA;0;23;6;49%;439;80%;10;3;0;3;7
+EPL;NA;NA;Tottenham;NA;2;17;6;56%;502;85%;9;1;0;1;5
+EPL;NA;NA;Manchester United;NA;0;22;6;44%;401;82%;8;3;0;4;6
+EPL;NA;NA;Manchester United;NA;3;18;9;67%;637;86%;13;4;0;3;11
+EPL;NA;NA;Nottingham Forest;NA;2;9;4;33%;316;72%;11;4;1;2;3
+EPL;NA;NA;Arsenal;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;Manchester United;NA;1;10;2;45%;462;84%;7;3;0;1;3
+EPL;NA;NA;CHELSEA;NA;3;19;8;68%;653;92%;15;2;0;0;6
+EPL;NA;NA;LUTON;NA;0;11;1;32%;306;78%;12;3;0;0;4
+EPL;NA;NA;BRENTFORD ;NA;1;12;1;60%;518;84%;9;0;0;2;8
+EPL;NA;NA;CRYSTAL PALACE;NA;1;15;5;40%;348;81%;15;0;0;2;6
+EPL;NA;NA;MAN UNITED ;NA;3;18;9;67%;637;86%;13;4;0;2;11
+EPL;NA;NA;NOTT'M FOREST;NA;2;9;4;33%;316;72%;11;4;1;2;3
+EPL;NA;NA;BRIGHTON ;NA;1;25;10;78%;749;89%;10;1;0;1;17
+EPL;NA;NA;WEST HAM;NA;3;12;7;22%;208;67%;9;3;0;2;4
+EPL;NA;NA;BURNLEY;NA;1;9;2;57%;594;88%;12;2;0;5;4
+EPL;NA;NA;ASTON VILLA;NA;3;16;6;43%;454;83%;11;0;0;1;6
+EPL;NA;NA;BORNEMOUTH;NA;0;11;3;43%;391;79%;18;1;0;3;6
+EPL;NA;NA;TOTTENHAM;NA;2;17;6;57%;537;88%;11;3;0;0;2
+EPL;NA;NA;ARSENAL ;NA;2;19;11;72%;680;90%;6;0;0;4;8
+EPL;NA;NA;FULHAM;NA;2;8;3;28%;274;71%;5;4;1;1;3
+EPL;NA;NA;EVERTON  ;NA;0;15;7;46%;406;82%;10;3;0;1;7
+EPL;NA;NA;WOLVES;NA;1;11;2;54%;472;83%;14;4;0;1;0
+EPL;NA;NA;SHIEFFIELD;NA;1;6;2;20%;194;68%;11;4;0;1;1
+EPL;NA;NA;MAN CITY;NA;2;30;9;80%;742;92%;2;0;0;2;12
+EPL;NA;NA;NEWCASTLE  ;NA;1;23;8;60%;590;86%;16;1;0;0;5
+EPL;NA;NA;LIVERPOOL;NA;2;9;4;40%;384;79%;10;2;1;1;9
+EPL;NA;NA;LUTON  ;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;WEST HAM;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;MAN CITY  ;NA;5;7;5;68%;733;89%;12;2;0;1;4
+EPL;NA;NA;FULHAM;NA;1;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;BURNLEY  ;NA;2;16;4;46%;467;80%;15;4;0;2;7
+EPL;NA;NA;TOTTENHAM;NA;5;21;11;54%;563;86%;9;3;0;1;4
+EPL;NA;NA;BRIGHTON  ;NA;3;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;NEWCASTLE;NA;1;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;LIVERPOOL ;NA;3;17;4;64%;694;91%;12;0;0;6;7
+EPL;NA;NA;ASTON VILLA;NA;0;9;3;36%;388;81%;7;1;0;1;3
+EPL;NA;NA;SHEFF UNITED  ;NA;2;13;8;45%;384;74%;11;1;0;1;4
+EPL;NA;NA;EVERTON;NA;2;16;6;55%;459;76%;13;2;0;2;6
+EPL;NA;NA;CHELSEA  ;NA;0;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;NOTT'M FOREST;NA;1;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;BRENTFORD  ;NA;2;21;7;62%;484;83%;6;1;0;1;5
+EPL;NA;NA;BOURNEMOUTH;NA;2;12;5;38%;310;72%;13;2;0;1;2
+EPL;NA;NA;CRYSTAL PALACE;NA;3;16;11;42%;393;79%;12;1;0;1;4
+EPL;NA;NA;WOLVES;NA;2;12;4;58%;519;83%;12;3;0;2;2
+EPL;NA;NA;ARSENAL  ;NA;3;17;5;55%;532;87%;8;2;0;2;12
+EPL;NA;NA;MAN UNITED;NA;1;10;2;45%;462;84%;7;3;0;1;3
+EPL;NA;NA;Manchester City;NA;NA;7;5;65%;733;89%;12;2;0;1;4
+EPL;NA;NA;Fulham;NA;NA;6;4;32%;336;80%;12;4;0;1;5
+EPL;NA;NA;Brighton;NA;NA;15;6;56%;565;89%;14;4;0;5;5
+EPL;NA;NA;Newcastle;NA;NA;9;2;44%;440;84%;17;4;0;0;3
+EPL;NA;NA;Chelsea;NA;NA;21;2;77%;713;88%;10;3;0;2;7
+EPL;NA;NA;Nottingham Forest;NA;NA;7;3;23%;230;62%;9;4;0;3;0
+EPL;NA;NA;Luton Town;NA;1;16;1;38%;366;72%;8;1;0;0;9
+EPL;NA;NA;West Ham;NA;2;9;3;62%;609;83%;13;1;0;6;6
+EPL;NA;NA;Brighton;NA;1;25;10;78%;749;89%;10;1;0;1;17
+EPL;NA;NA;West Ham;NA;3;12;7;22%;208;67%;9;3;0;2;4
+EPL;NA;NA;West Ham;NA;3;12;6;24%;227;69%;12;2;1;3;3
+EPL;NA;NA;Chelsea;NA;1;17;4;76%;716;87%;9;3;0;2;9
